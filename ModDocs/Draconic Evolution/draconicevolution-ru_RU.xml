@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod docRevision="16" lang="en_US" modName="Draconic Evolution" modid="draconicevolution">
+    <content alignment="CENTER" index="30" splitSide="CENTER" type="textArea">§6Robert W
+§r(С 08/06/2015)§r
+
+§6pxoxd
+§r(С 10/12/2015)§r
+
+§6antric83
+§r(С 14/04/2016)§r
+
+§6SassyAmber
+§r(С 25/05/2016)§r
+
+§6GreatOrator
+§r(С 02/06/2016)§r
+
+§6Drekryan
+§r(С 24/06/2016)§r
+
+§6Der DracheTV
+§r(С 26/06/2016)§r
+
+§6Jordan
+§r(С 20/07/2016)§r
+
+§6ModAPI
+§r(С 29/11/2016)§r
+
+§6Mikepet
+§r(С 09/12/2016)§r 
+
+§6Nick_J_M
+§r(С 19/01/2017)§r
+
+§6Halacon
+§r(С 23/01/2017)§r
+
+§6Edward
+§r(С 27/01/2017)§r
+
+§6WolufHD
+§r(С 29/03/2017)§r
+
+§6Morpheus1101
+§r(С 15/04/2017)§r
+
+§6exus_Chris
+§r(С 18/04/2017)§r
+
+§6Zudakai
+§r(С 21/04/2017)§r
+
+§6duomaz
+§r(С 15/04/2017)§r
+
+§6Snakemgr12
+§r(С 12/05/2017)§r
+
+§6Mhoku_
+§r(С 08/06/2017)§r</content>
+    <content alignment="CENTER" colour="ff00" hoverColour="0000FF" index="33" link="https://www.patreon.com/brandon3055" shadow="true" size="0" targetLocation="web" type="link">https://www.patreon.com/brandon3055</content>
+    <content index="32" type="textArea">Если Вы хотите стать Patreons, Вы можете сделать это, перейдя по ссылке ниже.</content>
+    <content index="31" size="8" type="vSpacer"/>
+    
+    <content index="27" type="textArea">§aСледующие люди поддерживают меня на Patreon!
+Поддержка этих людей действительно помогает
+делать то, что я делаю.</content>
+    <content index="28" size="8" type="vSpacer"/>
+    <content alignment="LEFT" index="24" type="splitContainer" vAlignment="TOP" width="20">
+        <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">§6Covers1624§b
+Является крупнейшим разработчиком DE в том, что касается DE 1.10+.
+Его работа с CCL была огромной помощью, что делает
+множество фантазий рендеринга в 1.10 возможным!
+Он также очень помог с некоторыми из DE-кода.
+Он отличный парень и очень хороший друг!
+    
+§6GreatOrator§b
+GreatOrator всегда был и всегда будет одним из моих лучших друзей.
+Он был первым человеком, которого я встретил в модовом сообществе, когда мы оба
+играли на модифицированном сервере 1.4.7 несколько лет назад.
+После игры с модами, через какое-то время мы решили, что хотим сделать ещё один шаг.
+GreatOrator начал работать над модульным пакетом, который теперь известен как Tolkiencraft
+и я решил начать возиться с java и работать над надстройкой для Tolkiencraft
+который в один прекрасный день будет известен как Draconic Evolution.
+
+Если бы Вы сказали нам тогда, как далеко мы пойдем, мы бы никогда не поверили в это
+Я думаю, что поразительный успех пакета Tolkiencraft - это то, что действительно помогло
+DE становится таким же популярным, как сегодня, потому что, когда люди узнали о TC, они также
+узнали о DE.
+
+Конечно, это еще не все. GreatOrator также отвечал за большую часть
+текстуры и значительная часть контента, все еще находящегося в DE до сегодняшнего дня
+пришли из его идей.</content>
+    </content>
+    <content index="21" size="8" type="vSpacer"/>
+    <content alignment="CENTER" colour="ffff" index="26" shadow="true" size="0" type="heading">§nPatreons:</content>
+    <content index="25" size="8" type="vSpacer"/>
+    <content alignment="CENTER" colour="ffff" index="18" shadow="true" size="1" type="heading">§nАвторы</content>
+    
+    <content index="7" size="4" type="vSpacer"/>
+    <content alignment="CENTER" colour="ff00" hoverColour="0000FF" index="8" link="https://www.youtube.com/watch?v=2RRddsks9TA" shadow="true" size="0" targetLocation="web" type="link">§nНажмите здесь, чтобы просмотреть часть 2 на youtube.</content>
+    <content alignment="CENTER" colour="ff00" hoverColour="0000FF" index="6" link="https://www.youtube.com/watch?v=iBcRT4C6RkQ" shadow="true" size="0" targetLocation="web" type="link">§nНажмите здесь, чтобы просмотреть часть 1 на youtube.</content>
+    <content alignment="CENTER" colour="ffff" index="5" shadow="true" size="0" type="heading">Guide by Direwolf20!</content>
+	<content alignment="CENTER" colour="ffff" index="4" shadow="true" size="0" type="heading">§rРуководство перевёл §c§ligorek181</content>
+    <content index="9" size="8" type="vSpacer"/>
+    
+    
+    
+    
+    <content index="12" size="24" type="vSpacer"/>
+    <content alignment="LEFT" index="11" type="splitContainer" vAlignment="BOTTOM" width="10">
+        <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">§1§a
+-Мощные инструменты и доспехи
+
+-Телепортация
+          
+-Самое мощное хранилище энергии из всех существующих модов.
+
+-Экстримальная (Опасная) выработка электроэнергии
+
+-Необычные эффекты! (Потому что это важная функция!)
+
+-Один из самых могущественных боссов в Minecraft с модами</content>
+    </content>
+    <content index="10" type="textArea">Draconic Evolution - это мод, в котором основное внимание уделяется чрезвычайно мощным инструментам конечной игры, оружию машин.
+
+В то же время поддерживая баланс (хотя это может быть сложно) с одинаково дорогими рецептами и очень сложными боссами, которые Вам нужно пройти, чтобы получить эти предметы.
+
+Но этот мод стал больше похож на модель Open Blocks или Extra Utilities, так что у нее также много случайных, но полезных блоков и предметов.
+Некоторые из ключевых особенностей этого мода: </content>
+    <content index="4" size="8" type="vSpacer"/>
+    <content alignment="CENTER" index="2" shadow="false" size="0" type="heading">ABC...LMN§cDraconic Evolution§rQR...WXYZ</content>
+    <content index="1" size="8" type="vSpacer"/>
+    <content alignment="CENTER" index="0" shadow="true" size="1" type="heading">§nDraconic Evolution</content>
+    <entry branchId="draconicevolution:draconium" category="wiki.cat.item" icon="name:draconicevolution:draconium_ingot,size:1,meta:0,nbt:{}" iconType="stack" name="Драконий" sortingWeight="10">
+        <content index="6" type="recipe">name:draconicevolution:nugget,size:1,meta:0,nbt:{}</content>
+        <content index="5" type="recipe">name:draconicevolution:draconium_ingot,size:1,meta:0,nbt:{}</content>
+        <content index="4" size="8" type="vSpacer"/>
+        <content index="3" type="textArea">Драконий - это основной материал, используемый для изготовления всех инструментов и машин в Draconic Evolution.</content>
+        <content index="2" size="8" type="vSpacer"/>
+        <content index="0" size="4" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nДраконий</content>
+    <entry branchId="draconicevolution:draconium/ore" category="wiki.cat.block" icon="name:draconicevolution:draconium_ore,size:1,meta:0,nbt:{}" iconType="stack" name="Дракониевая Руда" sortingWeight="10">
+            <content alignment="LEFT" index="7" type="splitContainer" vAlignment="MIDDLE" width="32">
+                <content index="0" renderSlot="true" scale="100" splitSide="LEFT" tooltip="true" type="stack">name:draconicevolution:draconium_ore,size:1,meta:2,nbt:{}</content>
+                <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">§nЭндер Мир§r
+
+Это самый распространенный вариант добычи Дракониевой руды, руда можеты быть найдена на главном и всех других островах в Эндер Мире.
+
+Шансы Выпадения:
+2-4 Дракониевая Пыль (Без Удачи)
+2-12 Дракониевая Пыль (С Удачей 3)
+</content>
+            </content>
+            <content index="6" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="5" type="splitContainer" vAlignment="MIDDLE" width="32">
+                <content index="0" renderSlot="true" scale="100" splitSide="LEFT" tooltip="true" type="stack">name:draconicevolution:draconium_ore,size:1,meta:1,nbt:{}</content>
+                <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">§nАд§r
+
+Более распространенный вариант, чем вариант с добычей в Основном Мире, но все же руда довольно редкая и Драконик пыль выпадает в меньшем количестве.
+Найдите её в Аду.
+
+Шансы Выпадения:
+3-5 Дракониевая Пыль (Без Удачи)
+3-13 Дракониевая Пыль (С Удачей 3)
+</content>
+            </content>
+            <content index="4" size="8" type="vSpacer"/>
+
+
+            <content alignment="LEFT" index="3" type="splitContainer" vAlignment="MIDDLE" width="32">
+
+                <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">§nОсновной Мир§r
+
+Минеральное разнообразие Дракониевой Руды можно найти в Основном Мире и других измерениях, основанных на камне.
+Это самый редкий из трёх типов, с чрезвычайно маленьким шансом генерации, но при добыче выпадает больше Дракониеовй пыли.
+
+Шансы Выпадения:
+4-6 Дракониевая Пыль (Без Удачи)
+4-14 Дракониевая Пыль (С Удачей 3)</content>
+            <content alignment="CENTER" index="0" renderSlot="true" scale="100" splitSide="LEFT" tooltip="true" type="stack">name:draconicevolution:draconium_ore,size:1,meta:0,nbt:{}</content>
+            </content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Дракониевая Руда встречается трёх типов.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:draconium/dust" category="wiki.cat.item" icon="name:draconicevolution:draconium_dust,size:1,meta:0,nbt:{}" iconType="stack" name="Дракониевая Пыль" sortingWeight="11">
+            <content index="1" type="textArea">Дракониевая пыль выпадает из Дракониевой руды и 1 пыль может быть переплавлена в 1 Дракониевый слиток</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:draconium/block" category="wiki.cat.block" icon="name:draconicevolution:draconium_block,size:1,meta:0,nbt:{}" iconType="stack" name="Блок Дракония" sortingWeight="12">
+            <content index="3" type="recipe">name:draconicevolution:draconium_block,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+
+            <content index="1" type="textArea">Драконий в блоках.
+
+Этот блок устойчив к большинству мобов, включая Иссушителя и Дракона Края.
+
+Эквивалентен 4 книжным полкам, когда используется для усиления зачарования.</content>
+            <content index="0" size="8" type="vSpacer"/>
+
+        </entry>
+    <entry branchId="draconicevolution:draconium/blockCharged" category="wiki.cat.block" icon="name:draconicevolution:draconium_block,size:1,meta:1,nbt:{}" iconType="stack" name="Заряженный Блок Дракония" sortingWeight="13">
+			<content index="2" type="recipe">name:draconicevolution:draconium_block,size:1,meta:1,nbt:{}</content>
+            <content index="1" type="textArea">Поместив блок дракония в Слияние и снабдив его 7.5 миллионами RF, Вы можете сделать Заряженный Блок Дракония.
+
+Эквивалентен 12 книжным полкам, когда используется для усиления зачарования.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:draconium/nugget" category="wiki.cat.item" icon="name:draconicevolution:nugget,size:1,meta:0,nbt:{}" iconType="stack" name="Дракониевый Самородок" sortingWeight="14">
+			<content index="0" size="8" type="vSpacer"/>
+            <content index="1" type="recipe">name:draconicevolution:nugget,size:1,meta:0,nbt:{}</content>
+			<content index="3" size="8" type="vSpacer"/>
+        </entry>
+    </entry>
+    <entry branchId="draconicevolution:cores" icon="name:draconicevolution:draconic_core,size:1,meta:0,nbt:{}" iconType="stack" name="Ядра" sortingWeight="20">
+        <content index="0" type="textArea">
+Ядра имеют 4 уровня и являются основными компонентами почти всех рецептов Draconic Evolution.</content>
+        <entry branchId="draconicevolution:cores/draconic" category="wiki.cat.item" icon="name:draconicevolution:draconic_core,size:1,meta:0,nbt:{}" iconType="stack" name="Ядро Дракона">
+            <content index="3" type="recipe">name:draconicevolution:draconic_core,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="0" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Ядро Дракона. Используется для самых простых рецептов.</content>
+        </entry>
+    <entry branchId="draconicevolution:cores/wyvern" category="wiki.cat.item" icon="name:draconicevolution:wyvern_core,size:1,meta:0,nbt:{}" iconType="stack" name="Ядро Виверны" sortingWeight="1">
+            <content index="3" type="recipe">name:draconicevolution:wyvern_core,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Ядро 2 уровня (Виверны).
+Используется для более продвинутых рецептов.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:cores/awakened" category="wiki.cat.item" icon="name:draconicevolution:awakened_core,size:1,meta:0,nbt:{}" iconType="stack" name="Пробуждённое Ядро" sortingWeight="2">
+            <content index="3" type="recipe">name:draconicevolution:awakened_core,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Ядро 3 уровня (Дракона).
+Используется в рецептах более Высокого уровня, таких как дракониевые инструменты и оружие.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:cores/chaotic" category="wiki.cat.item" icon="name:draconicevolution:chaotic_core,size:1,meta:0,nbt:{}" iconType="stack" name="Ядро Хаоса" sortingWeight="3">
+            <content index="5" type="recipe">draconicevolution:chaotic_core</content>
+            <content index="4" size="8" type="vSpacer"/>
+            <content index="3" type="textArea"/>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Ядро 4 уровня (Хаоса).
+Используется для самых сложных рецептов, таких как Посох Силы, Инжектор Хаоса и.т.п</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:cores/wyvernEnergy" category="wiki.cat.item" icon="name:draconicevolution:wyvern_energy_core,size:1,meta:0,nbt:{}" iconType="stack" name="Энергетическое Ядро Дракона" sortingWeight="4">
+            <content index="3" type="recipe">name:draconicevolution:wyvern_energy_core,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Компонент крафта для всех элементов Виверны, которые используют энергию.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:cores/draconicEnergy" category="wiki.cat.item" icon="name:draconicevolution:draconic_energy_core,size:1,meta:0,nbt:{}" iconType="stack" name="Энергетическое Ядро Дракона" sortingWeight="5">
+            <content index="3" type="recipe">name:draconicevolution:draconic_energy_core,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Компонент крафта для всех элементов Дракона, которые используют энергию.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    </entry>
+    <entry branchId="draconicevolution:wyvernTools" icon="name:draconicevolution:wyvern_pick,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Инструменты Виверны" sortingWeight="50">
+        <content index="11" type="textArea">§6§nКонфигурация Инструментов§r
+
+Инструменты можно настроить через Графический интерфейс. Нажмите на ссылку ниже для получения более подробной информации.
+Графический интерфейс конфигурации инструмента - это то, что Вы используете для настройки большинства элементов Draconic Evolution.
+Доступ к нему можно получить, нажав на кнопку, которая по умолчанию 'C'
+Если это не работает, проверьте, нет ли конфликтных клавиш в настройках управления.
+
+Когда Вы откроете графический интерфейс, то увидите свой инвентарь.
+Все настраиваемые элементы будут Выделены, а все остальное будет серым цветом.
+Просто щелкните на предмет, чтобы получить доступ к его конфигурации.</content>
+        <content index="12" size="8" type="vSpacer"/>
+        
+        
+        
+        <content index="5" size="4" type="vSpacer"/>
+        <content alignment="CENTER" hoverColour="0000FF" index="6" link="draconicevolution:upgradeSystem" shadow="true" size="0" targetLocation="branch" type="link">§nСсылка: Улучшения на Слиянии</content>
+        <content alignment="RIGHT" imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Tools/Wyvern%20Tools.jpg" index="13" scale="200" type="image"/>
+        <content index="7" size="12" type="vSpacer"/>
+        
+        
+        
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="3" type="textArea">Набор инструментов Виверны - это первый шаг на пути к мощнейшим инструментам!
+
+Инструменты Виверны имеют много преимуществ по сравнению с ванильными инструментами.
+
+§6§n Сила RF §r
+
+§6§n Регулируемая Скорость Копания §r
+Мало того, что эти инструменты быстрее, чем ванильные, но также можно настроить их скорость.
+Одна из самых больших проблем с быстрыми инструментами - это уничтожение блоков в областях Вашей базы.
+Это решает проблему.
+
+§6§n 5 Профилей Конфигурации §r
+Чтобы отрегулировать настройки скорости или области копания, Вам нужно всегда открывать Графический интерфейс и это раздражает...
+Каждый из этих инструментов имеет 5 настраиваемых профилей, которые Вы можете легко переключать с использованием кнопки (Обычно это "\")
+Эти профили также можно переименовать для упрощения идентификации.
+
+§6§n Область Действия Инструментов и Оружия §r
+Все инструменты и оружие имеют Область добычи/атаки (AOE). Вы можете увидеть область добычи на экране, включив данную найстроку.
+
+§6§n Безопасный Режим §r
+Если эта опция включена, инструмент будет проверять наличие тайл-сущностей (например, механизмов) в пределах своей области действия. Это не даст Вам случайно разрушить базу, нечаянно нажав кнопку мыши...
+Если он найдет что-либо, он не сломает никаких блоков и вместо этого даст Вам предупреждение.
+
+§6§n Более Высокий Уровень Атаки §r
+
+§6§n Инструменты и оружие могут быть улучшены! §r
+Для получения информации об улучшеннии инструмента нажмите на ссылку ниже!</content>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nИнстурменты Виверны</content>
+        <content index="0" size="8" type="vSpacer"/>
+        <entry branchId="draconicevolution:wyvernTools/pick" category="wiki.cat.item" icon="name:draconicevolution:wyvern_pick,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Кирка Виверны">
+            <content index="3" type="recipe">name:draconicevolution:wyvern_pick,size:1,meta:0,nbt:{Energy:4000000,Profile_0:{digAOE:0,aoeSafeMode:0b,digSpeed:100,showDigAOE:0b}}</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§b§nОписание:
+
+§6Базовая ёмкость 1 Миллион RF. Можно улучшить до 32 Миллионов RF.§r
+
+§61x1 базовая область копания. Можно улучшить до 5x5.§r</content>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Кирка Виверны</content>
+        </entry>
+        <entry branchId="draconicevolution:wyvernTools/axe" category="wiki.cat.item" icon="name:draconicevolution:wyvern_axe,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Топор Виверны" sortingWeight="1">
+            <content index="4" type="recipe">name:draconicevolution:wyvern_axe,size:1,meta:0,nbt:{Energy:4000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§b§nОписание:
+
+§6Базовая ёмкость 1 Миллион RF. Можно улучшить до 32 Миллионов RF.§r
+
+§61x1 базовая область копания. Можно улучшить до 5x5.§r
+
+§6Индикатор Срубания§r
+Если эта опция включена, то при нажатии на ПКМ по основании дерева, топор быстро срубит все дерево.
+Этот топор может срубить до 512 блоков за раз.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Топор Виверны</content>
+        </entry>
+        <entry branchId="draconicevolution:wyvernTools/shovel" category="wiki.cat.item" icon="name:draconicevolution:wyvern_shovel,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Лопата Виверны" sortingWeight="2">
+            <content index="4" type="recipe">name:draconicevolution:wyvern_shovel,size:1,meta:0,nbt:{Energy:4000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§b§nОписание:
+
+§6Базовая ёмкость 1 Миллион RF. Можно улучшить до 32 Миллионов RF.§r
+
+§61x1 базовая область копания. Можно улучшить до 5x5.§r</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Лопата Виверны</content>
+        </entry>
+        <entry branchId="draconicevolution:wyvernTools/sword" category="wiki.cat.item" icon="name:draconicevolution:wyvern_sword,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Меч Виверны" sortingWeight="3">
+            <content index="4" type="recipe">name:draconicevolution:wyvern_sword,size:1,meta:0,nbt:{Energy:4000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§b§nОписание:
+
+§6Базовая ёмкость 1 Миллион RF. Можно улучшить до 32 Миллионов RF.§r
+
+§615 базовая Атака. Можно улучшить до 22.5.§r
+
+§6Радиус атаки может быть улучшен до 5x5§r
+Обратите внимание, что атака по области работает только тогда, когда атака меча полностью заряжена.
+(Обращаясь к новой механике атаки ванильного майнкрафта)</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Меч Виверны</content>
+        </entry>
+        <entry branchId="draconicevolution:wyvernTools/bow" category="wiki.cat.item" icon="name:draconicevolution:wyvern_bow,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Лук Виверны" sortingWeight="4">
+            <content index="4" type="recipe">name:draconicevolution:wyvern_bow,size:1,meta:0,nbt:{Energy:4000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">Луки в Draconic Evolution очень мощные, с множеством различных настраиваемых настроек.
+
+§6Базовая ёмкость 1 Миллион RF. Можно улучшить до 32 Миллионов RF.§r
+
+§6Урон стрелы: базовый 2, Можно улучшить до 6§r
+
+§6Скорость стрелы: базовая +100%, Можно улучшить до +300%§r
+
+§6Режим Авто Огня§r
+Будет автоматически срабатывать при полной зарядке лука.
+
+§6Взрывная сила§r
+Позволяет сделать вашу стрелу взрывной.
+Максимальная мощность эквивалентна ванильному TNT.
+
+§6Приближение§r
+Позволяет увеличить масштаб цели, чтобы повысить точность.
+
+§aИнформация:§r
+Повреждение рассчитывается путем умножения скорости стрелы на повреждение стрелы с некоторой случайностью.
+
+Энергия, требуемая для каждого Выстрела, рассчитывается путем умножения урона, скорости и мощности взрыва.
+Это означает, что для установки всего трёх настроек на максимум потребуется огромное количество энергии за выстрел.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Лук Виверны</content>
+        </entry>
+    <entry branchId="draconicevolution:wyvernTools/capacitor" category="wiki.cat.item" icon="draconicevolution:draconium_capacitor,1,0,{Energy:64000000}" iconType="stack" name="Флаксовый Конденсатор Виверны" sortingWeight="5">
+            <content index="4" type="recipe">draconicevolution:draconium_capacitor,1,0,{Energy:64000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">Вы выяснили, как создать предмет, способный хранить огромное количество энергии и передавать его Вашим предметам по мере необходимости.
+
+Флаксовый Конденсатор Виверны имеет 5 режимов работы, и Вы можете сменить их Shift + ПКМ, чтобы переключаться между ними.
+
+§6Бездействовать
+Заряжать Броню
+Заряжать Предмет в руке
+Заряжать Броню и Предмет в руке
+Заряжать всё§r
+
+Этот конденсатор имеет базовую ёмкость 64 миллиона RF и может быть улучшен до 128 миллионов RF</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nФлаксовый Конденсатор Виверны</content>
+        </entry>
+    </entry>
+    <entry branchId="draconicevolution:draconicTools" icon="draconicevolution:draconic_pick,1,0,{Energy:16000000}" iconType="stack" name="Инструменты Дракона" sortingWeight="51">
+        <content index="4" type="textArea">Это инструменты и оружие Высокого уровня Draconic Evolution.
+
+Эти инструменты наследуют все возможности Виверны, но с некоторыми значительными обновлениями.
+
+§6§nРегулируемая Глубина Добычи.§r
+Все добывающие инструменты имеют регулируемую глубину добычи.
+Это означает, что Вы можете копать, например, куб 5x5x5.</content>
+        <content index="5" size="8" type="vSpacer"/>
+        <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Tools/Draconic%20Tools.jpg" index="6" scale="100" type="image"/>
+        
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="3" type="heading">§nИнструменты Дракона</content>
+        <content index="0" size="8" type="vSpacer"/>
+        <entry branchId="draconicevolution:draconicTools/pickaxe" category="wiki.cat.item" icon="name:draconicevolution:draconic_pick,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Кирка Дракона">
+            <content index="0" size="8" type="vSpacer"/>
+			<content index="4" type="recipe">name:draconicevolution:draconic_pick,size:1,meta:0,nbt:{Energy:16000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§b§nОписание:
+
+§6Базовая ёмкость 16 Миллионов RF. Можно улучшить до 256 Миллионов RF.§r
+
+§63x3 базовая область копания. Можно улучшить до 9x9§r
+
+§6Глубина добычи в 3 блока. Можно Улучшить до 9§r</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Кирка Дракона</content>
+        </entry>
+        <entry branchId="draconicevolution:draconicTools/axe" category="wiki.cat.item" icon="name:draconicevolution:draconic_axe,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Топор Дракона" sortingWeight="1">
+            <content index="4" type="recipe">name:draconicevolution:draconic_axe,size:1,meta:0,nbt:{Energy:16000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§b§nОписание:
+
+§6Базовая ёмкость 16 Миллионов RF. Можно улучшить до 256 Миллионов RF.§r
+
+§63x3 базовая область копания. Можно улучшить до 9x9§r
+
+§6Глубина добычи в 3 блока. Можно Улучшить до 9§r
+
+§6Индикатор Срубания§r
+Если эта опция включена, то при нажатии на ПКМ по основании дерева, топор быстро срубит все дерево.
+Этот топор может срубить до 8912 блоков за раз.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Топор Дракона</content>
+        </entry>
+        <entry branchId="draconicevolution:draconicTools/shovel" category="wiki.cat.item" icon="name:draconicevolution:draconic_shovel,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Лопата Дракона" sortingWeight="2">
+            <content index="4" type="recipe">name:draconicevolution:draconic_shovel,size:1,meta:0,nbt:{Energy:16000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§b§nОписание:
+
+§6Базовая ёмкость 16 Миллионов RF. Можно улучшить до 256 Миллионов RF.§r
+
+§63x3 базовая область копания. Можно улучшить до 9x9§r
+
+§6Глубина добычи в 3 блока. Можно Улучшить до 9§r</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Лопата Дракона</content>
+        </entry>
+        <entry branchId="draconicevolution:draconicTools/hoe" category="wiki.cat.item" icon="name:draconicevolution:draconic_hoe,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Мотыга Дракона" sortingWeight="3">
+            <content index="4" type="recipe">name:draconicevolution:draconic_hoe,size:1,meta:0,nbt:{Energy:16000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§b§nОписание:
+
+§6Базовая ёмкость 16 Миллионов RF. Можно улучшить до 256 Миллионов RF.§r
+
+§63x3 базовая область копания. Можно улучшить до 9x9§r
+
+§6Режим Заполнения Земли§r
+Будет использовать землю из Вашего инвентаря для автоматического заполнения дыр глубиной в 1 блок, для того чтобы выравнять территорию при вспахивании. Также будет разрушать землю, находящуюся на 1 блок выше зоны вспахивания, если это необходимо.
+Любые собранные блоки помещаются в инвентарь игрока.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Мотыга Дракона</content>
+        </entry>
+        <entry branchId="draconicevolution:draconicTools/sword" category="wiki.cat.item" icon="name:draconicevolution:draconic_sword,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Меч Дракона" sortingWeight="4">
+            <content index="4" type="recipe">name:draconicevolution:draconic_sword,size:1,meta:0,nbt:{Energy:16000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§b§nОписание:
+
+§6Базовая ёмкость 16 Миллионов RF. Можно улучшить до 256 Миллионов RF.§r
+
+§63x3 базовый радиус атаки. Можно улучшить до 13x13§r
+Обратите внимание, что атака по области работает только тогда, когда атака меча полностью заряжена.
+(Обращаясь к новой механике атаки ванильного майнкрафта)
+
+§635 базовая Атака. Можно улучшить до 61.25§r</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Меч Дракона</content>
+        </entry>
+        <entry branchId="draconicevolution:draconicTools/bow" category="wiki.cat.item" icon="name:draconicevolution:draconic_bow,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Лук Дракона" sortingWeight="5">
+            <content index="4" type="recipe">name:draconicevolution:draconic_bow,size:1,meta:0,nbt:{Energy:16000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">Луки в Draconic Evolution очень мощные, с множеством различных настраиваемых настроек.
+
+§6Базовая ёмкость 4 Миллионов RF. Можно улучшить до 32 Миллионов RF.§r
+
+§6Базовый Урон стрелы: 3, можно улучшить до 9§r
+
+§6Модификатор Скорости стрелы: базовый +200%, Можно улучшить до +500%§r
+
+§6Режим Авто Огня§r
+Будет автоматически срабатывать при полной зарядке лука.
+
+§6Взрывная сила§r
+Позволяет сделать Вашу стрелу взрывной.
+Максимальная мощность эквивалентна ванильному TNT.
+
+§6Стрела Драконьего Огня§r
+Переключитесь на стрелу, составленную из чистой энергии Дракона! 
+Это по сути то же самое, что и бесконечность, но также увеличивает урон.
+И позволяет некоторые другие функции.
+
+§6Сила Ударной Волны§r
+Это создает ударную волну, которая наносит урон, подобный взрыву, но более мощный и без разрушения блоков.
+Доступно только со §cСтрелой Драконьего Огня§r.
+
+§6Приближение§r
+Позволяет увеличить масштаб цели, чтобы повысить точность на большом расстоянии.
+
+§aИнформация:§r
+Повреждение рассчитывается путем умножения скорости стрелы на повреждение стрелы с некоторой случайностью.
+
+Энергия, требуемая для каждого Выстрела, рассчитывается путем умножения урона, скорости и мощности взрыва.
+Это означает, что для установки всего трёх настроек на максимум потребуется огромное количество энергии за Выстрел.
+
+Ударная волна совместима только со Стрелой Драконьего Огня.
+И Взрывная сила не совместима со Стрелой Драконьего Огня</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Лук Дракона</content>
+        </entry>
+        <entry branchId="draconicevolution:draconicTools/staff" category="wiki.cat.item" icon="name:draconicevolution:draconic_staff_of_power,size:1,meta:0,nbt:{Energy:48000000}" iconType="stack" name="Посох Силы" sortingWeight="6">
+            <content index="4" type="recipe">name:draconicevolution:draconic_staff_of_power,size:1,meta:0,nbt:{Energy:48000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">Посох Силы - один из самых мощных предметов в Draconic Evolution.
+Это и добывающий инструмент, и мощное оружие со схожими способностями Меча Дракона.
+Но сильнее!
+
+§b§nОписание:
+
+§6Базовая ёмкость 48 Миллионов RF. Можно улучшить до 768 Миллионов RF.§r
+
+§65x5 базовая область копания. Можно улучшить до 11x11§r
+
+§6Глубина добычи в 5 блоков. Можно улучшить до 11§r
+
+§660 базовая Атака. Можно улучишть до 105§r
+Следует отметить, это такое большое и тяжелое оружие, что скорость атаки довольно медленная.
+
+§65x5 базовый радиус атаки. Можно улучишть до 17x17§r
+Обратите внимание, что атака по области работает только тогда, когда атака меча полностью заряжена.
+(Обращаясь к новой механике атаки ванильного майнкрафта)</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">Посох Силы</content>
+        </entry>
+    <entry branchId="draconicevolution:draconicTools/capacitor" category="wiki.cat.item" icon="draconicevolution:draconium_capacitor,1,1,{Energy:256000000}" iconType="stack" name="Флаксовый Конденсатор Дракона" sortingWeight="7">
+            <content alignment="CENTER" hoverColour="0000FF" index="4" link="draconicevolution:wyvernTools/capacitor" shadow="true" size="0" targetLocation="branch" type="link">§nФлаксовый Конденсатор Виверны.</content>
+            <content index="5" size="8" type="vSpacer"/>
+            <content index="6" type="recipe">draconicevolution:draconium_capacitor,1,1,{Energy:256000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">Этот конденсатор похож на конденсатор потока Виверны, за исключением того, что он имеет базовую емкость 256 миллионов RF и она может быть улучшена до 640 миллионов RF.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nФлаксовый Конденсатор Дракона</content>
+        </entry>
+    </entry>
+    <entry branchId="draconicevolution:fusionCrafting" category="wiki.cat.block" icon="name:draconicevolution:fusion_crafting_core,size:1,meta:0,nbt:{}" iconType="stack" name="Слияние" sortingWeight="100">
+        <content index="12" size="8" type="vSpacer"/>
+        <content index="11" type="textArea">§6§nвыход Компоратора§r
+Присоединение компаратора к самому ядру позволяет проверить состояние крафта, используя редстоун. Текущее состояние отображается сигналом редстоуна.
+
+§30§r - §6Нет рецепта и выходной слот пуст.
+§31§r - §6Действительный рецепт.                         
+§31 &gt; 15§r - §6Слияние в процессе.        
+§315§r - §6Слияние завершено/Предмет в слоте выхода.
+</content>
+        <content index="10" size="8" type="vSpacer"/>
+        <content index="9" type="recipe">name:draconicevolution:fusion_crafting_core,size:1,meta:0,nbt:{}</content>
+        <content index="8" size="8" type="vSpacer"/>
+        <content alignment="CENTER" hoverColour="0000FF" index="7" link="draconicevolution:fusionCrafting/setup" shadow="true" size="0" targetLocation="branch" type="link">§l§nКликните здесь, чтобы увидеть гайд.</content>
+        <content index="6" size="8" type="vSpacer"/>
+        <content index="5" type="textArea">Слияние - это процесс, который использует большое количество энергии для объединения элементов «плавкого предохранителя» на атомном уровне.
+
+Как это Работает:
+
+§6§n Рецепты §r
+
+Каждый рецепт требует 3 вещи
+
+Катализатор
+Ингредиенты Слияния
+И энергию
+
+Катализатор помещают в середину, и каждый ингредиент помещают в отдельный инжектор для слияния. Если рецепт действителен, Вы увидите вывод, отображаемый в графическом интерфейсе ядра, а также возможность начать слияние.
+
+В разных рецептах также требуются разные уровни. В настоящее время существует 4 разных уровня: Базовый, Виверны, Дракона и Хаоса.
+Уровень вашей установки определяется её инжекторами.
+
+§6§n Слияние §r
+§o(Просто расслабьтесь и наслаждайтесь магией!)§r
+Есть два разных этапа слияния: «Зарядка и обработка»
+
+Во время зарядки все активные инжекторы нуждаются в энергии для зарядки. По завершении зарядки начинается процесс обработки.
+Стадия обработки будет работать в течение нескольких секунд, после чего результат обработки будет помещен в выходной слот ядра.</content>
+        <content index="4" size="8" type="vSpacer"/>
+        <content index="0" size="8" type="vSpacer"/>
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nСлияние</content>
+        <content alignment="CENTER" imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Fusion%20Crafting/Fusion%20Crafting.jpg" index="3" scale="100" type="image"/>
+        <entry branchId="draconicevolution:fusionCrafting/basicInjector" category="wiki.cat.block" icon="name:draconicevolution:crafting_injector,size:1,meta:0,nbt:{}" iconType="stack" name="Базовый Инжектор Слияния">
+            <content index="3" type="recipe">name:draconicevolution:crafting_injector,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="0" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Это самый базовый инжектор Слияния. Используется для простых рецептов.</content>
+        </entry>
+    <entry branchId="draconicevolution:fusionCrafting/wyvernInjector" category="wiki.cat.block" icon="name:draconicevolution:crafting_injector,size:1,meta:1,nbt:{}" iconType="stack" name="Инжектор Слияния Виверны" sortingWeight="1">
+            <content index="3" type="recipe">name:draconicevolution:crafting_injector,size:1,meta:1,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Инжектор уровня 2 (Виверны) используется для более продвинутых рецептов, таких как Инструменты и Броня Виверны.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:fusionCrafting/draconicInjector" category="wiki.cat.block" icon="name:draconicevolution:crafting_injector,size:1,meta:2,nbt:{}" iconType="stack" name="Инжектор Слияния Дракона" sortingWeight="2">
+            <content index="3" type="recipe">name:draconicevolution:crafting_injector,size:1,meta:2,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Инжектор уровня 3 (Дракона) используется для большинства более продвинутых рецептов, таких как Инструменты и Броня Дракона.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:fusionCrafting/chaotic Injector" category="wiki.cat.block" icon="name:draconicevolution:crafting_injector,size:1,meta:3,nbt:{}" iconType="stack" name="Инжектор Слияния Хаоса" sortingWeight="3">
+            <content index="3" type="recipe">name:draconicevolution:crafting_injector,size:1,meta:3,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Инжектор уровня 4 (Хаоса) используется для очень сложных рецептов, таких как Посох Силы, Ядро дракониевого реактора и.т.д.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:fusionCrafting/setup" iconType="off" name="Настройка процесса Слияния" sortingWeight="4">
+            <content index="10" size="8" type="vSpacer"/>
+            <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Fusion%20Crafting/Fusion%20Crafting.jpg" index="9" scale="100" type="image"/>
+            <content index="8" size="8" type="vSpacer"/>
+            <content index="7" type="textArea">Таким образом, Вы можете видеть, что инжекторы могут быть размещены на расстоянии до §616§r блоков, и пока они находятся в пределах указанной области и указывая на ядро без каких-либо препятствий, они будут работать.
+
+Что нужно знать о слиянии, заключается в том, что не имеет значения, сколько у Вас инжекторов, если их достаточно для рецепта.
+Можете смешивать и соответствовать уровням инжекторов. То есть, если у Вас есть смесь инжекторов Базовых и Виверны, Вы все равно можете создавать предметы, но в слиянии не может быть использован инжектор, который ниже требуемого.
+
+Последнее, что Вам нужно будет сделать, это подавать питание на инжекторы.
+Требуемое количество энергии будет зависеть от текущего рецепта, но для всех инжекторов, используемых рецептом, требуется питание.</content>
+            <content index="6" size="8" type="vSpacer"/>
+            <content index="4" size="8" type="vSpacer"/>
+            <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Fusion%20Crafting/Fusion%20Layout.jpg" index="5" scale="100" type="image"/>
+            <content index="3" type="textArea">Процесс установки на самом деле довольно прост.
+Поместите ядро слияния, затем инжекторы, где угодно, на север, юг, восток, запад, выше или ниже ядра.
+Все инжекторы должны быть как минимум на §61§r блок от ядра и могут быть смещены в любом направлении по их оси на 1 блок.
+
+Это может показаться немного запутанным, поэтому взгляните на изображение ниже.
+(Каждый стеклянный блок представляет собой допустимое место для инжектора.)</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="1" shadow="true" size="1" type="heading">§nНачнём Слияние</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    </entry>
+    <entry branchId="draconicevolution:energyCore" icon="name:draconicevolution:energy_storage_core,size:1,meta:0,nbt:{}" iconType="stack" name="Энергохранилище" sortingWeight="150">
+        <content index="15" size="8" type="vSpacer"/>
+        <content alignment="CENTER" hoverColour="0000FF" index="14" link="draconicevolution:energyCore/setup" shadow="true" size="0" targetLocation="branch" type="link">§nКликните здесь, чтобы посмотреть гайд</content>
+        <content index="13" size="8" type="vSpacer"/>
+        <content index="12" type="recipe">name:draconicevolution:energy_storage_core,size:1,meta:0,nbt:{}</content>
+        <content index="11" size="8" type="vSpacer"/>
+        <content alignment="CENTER" hoverColour="0000FF" index="10" link="https://en.wikipedia.org/wiki/9223372036854775807" shadow="true" size="0" targetLocation="web" type="link">§nСсылка на Википедию</content>
+        <content index="11" size="8" type="vSpacer"/>
+		<content alignment="LEFT" index="9" type="splitContainer" vAlignment="MIDDLE" width="32">
+            <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">§6§lУровень 1:§r §b45.5 Миллиона RF
+§6§lУровень 2:§r §b273 Миллиона RF
+§6§lУровень 3:§r §b1.64 Миллиарда RF
+§6§lУровень 4:§r §b9.88 Миллиарда RF
+§6§lУровень 5:§r §b59.3 Миллиарда RF
+§6§lУровень 6:§r §b356 Миллиарда RF
+§6§lУровень 7:§r §b2.14 Триллиона RF
+§6§lУровень 8:§r §b...§r
+
+Хорошо, так об уровне 8... Я не собираюсь врать тебе и говорить тебе, что он «Бесконечный».
+
+Что касается вмещаимости 8-го уровня. Если Вы хотите получить точное число, нажмите ссылку ниже.</content>
+        </content>
+        <content index="8" size="8" type="vSpacer"/>
+        <content index="7" type="textArea">Если Вам нравится хранить энергию, то это точно понравится!
+
+Я дам Вам Ядро дракониевой энергии. В настоящее время является крупнейшим устройством хранения энергии в Minecraft с модами.
+
+Хорошо, давайте перейдем к сути: сколько в ней может содержаться энергии?
+Ну, есть 8 уровней, и каждый имеет существенно больше, чем предыдущий.
+</content>
+        <content index="6" size="8" type="vSpacer"/>
+        <content index="2" size="4" type="vSpacer"/>
+        <content alignment="CENTER" index="3" shadow="true" size="0" type="heading">Конечное устройство хранения энергии.</content>
+        <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Energy%20Core%20T8.jpg" index="5" scale="100" type="image"/>
+        <content index="4" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="1" type="heading">§nЭнергетическое Ядро Дракона</content>
+        <content index="0" size="8" type="vSpacer"/>
+        
+    <entry branchId="draconicevolution:energyCore/setup" iconType="off" name="Настройка Энергетического Ядра" sortingWeight="0">
+            <content index="15" size="8" type="vSpacer"/>
+            <content alignment="CENTER" hoverColour="0000FF" index="14" link="draconicevolution:energyCore/pylon" shadow="true" size="0" targetLocation="branch" type="link">§nЗатем энергетические пилоны. Нажмите здесь, чтобы пропустить.</content>
+            <content index="13" size="8" type="vSpacer"/>
+            <content alignment="CENTER" hoverColour="0000FF" index="12" link="draconicevolution:energyCore/stabilizer" shadow="true" size="0" targetLocation="branch" type="link">§nСтабилизаторы. Нажмите здесь для продолжения.</content>
+            <content index="11" size="8" type="vSpacer"/>
+            <content index="10" type="splitContainer" vAlignment="MIDDLE">
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Built%20Guide.jpg" index="0" scale="100" splitSide="LEFT" type="image"/>
+                <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading"> Гайд постройки</content>
+            </content>
+            <content index="8" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="7" type="splitContainer" vAlignment="TOP" width="30">
+            <content alignment="LEFT" index="0" splitSide="LEFT" type="textArea">Уровень 1:
+1x Энергетическое Ядро
+4x Стабилизаторов Энергетического Ядра
+
+Уровень 3:
+1x Энергетическое Ядро
+4x Стабилизаторов Энергетического Ядра
+26x Блоков Редстоуна
+
+Уровень 5:
+1x Энергетическое Ядро
+36x Стабилизаторов Энергетического Ядра
+90x Блоков Дракония
+80x Блоков Редстоуна
+
+Уровень 7:
+1x Энергетическое Ядро
+36x Стабилизаторов Энергетического Ядра
+210x Блоков Дракония
+328x Блоков Редстоуна</content>
+			   <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">Уровень 2:
+1x Энергетическое Ядро
+4x Стабилизаторов Энергетического Ядра
+6x Блоков Дракония
+
+Уровень 4:
+1x Энергетическое Ядро
+4x Стабилизаторов Энергетического Ядра
+54x Блоков Дракония
+26x Блоков Редстоуна
+
+Уровень 6:
+1x Энергетическое Ядро
+36x Стабилизаторов Энергетического Ядра
+150x Блоков Дракония
+178x Блоков Редстоуна
+
+Уровень 8:
+Хорошо... Так помните, когда я сказал, что это ядро по глупому мощно?
+Ну, у него есть цена, чтобы соответствовать...
+1x Энергетическое Ядро
+36x Стабилизаторов Энергетического Ядра
+786x Блоков Дракония
+378x Заряженных Блоков Дракония</content>
+            </content>
+            
+            
+            <content index="6" size="8" type="vSpacer"/>
+            <content index="4" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="3" shadow="true" size="1" type="heading">Ядро</content>
+            <content alignment="CENTER" index="5" type="textArea">Хорошо, помните старые добрые времена в 1.7.10, когда это было так же просто, как чтение планшета,
+наблюдая за некоторыми туториалами, помещая тонну блоков, а затем разбивая тонны блоков, чтобы найти то, что Вы сделали неправильно, а затем снова разместите блоки и щелкнув мышью по стабилизатору?
+
+Ну, теперь это не так просто... На самом деле, это еще проще! (За некоторыми исключениями)
+Первое, что Вам нужно сделать, это поместить блок энергетического ядра в центр области, в которой Вы хотите построить хранилище.
+
+Затем щелкните правой кнопкой мыши по ядру, чтобы открыть его графический интерфейс и установить уровень.
+Если Вы создаёте ядро первого уровня, Вы можете перейти к разделу стабилизаторов.
+В противном случае продолжайте чтение.
+
+Теперь, когда Вы выбрали уровень, Вам нужно будет построить структуру вокруг ядра из блоков Редстоуна и Дракония.
+
+Чтобы помочь Вам правильно разобраться, в графическом интерфейсе основного ядра есть кнопка «Руководство по сборке». Это активирует голографическую проекцию блоков, которые необходимо разместить.
+Теперь просто используйте руководство по сборке для построения ядра.
+
+Ниже приведен список ингредиентов, необходимых для каждого уровня.
+</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="0" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nРуководство по настройке Энергетического Ядра</content>
+        </entry>
+    <entry branchId="draconicevolution:energyCore/pylon" category="wiki.cat.block" icon="name:draconicevolution:energy_pylon,size:1,meta:0,nbt:{}" iconType="stack" name="Энергетический Пилон" sortingWeight="2">
+            <content index="9" type="recipe">name:draconicevolution:energy_pylon,size:1,meta:0,nbt:{}</content>
+            <content index="8" size="8" type="vSpacer"/>
+            <content index="7" type="textArea">Максимальный выход энергии из пилона составляет  2.147.483.647 RF/t на сторону</content>
+            <content index="6" size="8" type="vSpacer"/>
+            <content index="5" type="splitContainer" vAlignment="TOP">
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/EP%20Structure.jpg" index="0" scale="40" splitSide="LEFT" type="image"/>
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/EP%20Active.jpg" index="0" scale="38" splitSide="RIGHT" type="image"/>
+            </content>
+            <content index="4" size="8" type="vSpacer"/>
+            <content index="3" type="textArea">Энергетические пилоны используются для подачи и извлечения энергии из ядра.
+
+Чтобы установить один, просто поместите один из 16 блоков ядра и поставьте блок стекла сверху или снизу в зависимости от его положения по оси Y относительно ядра.
+Если пилон находится над ядром, стекло должно быть на снизу. Иначе, если пилон находится ниже центра ядра, стекло должно быть сверху.
+
+Чтобы проверить, что пилон подключен к ядру, просто нажмите Shift + ПКМ по пилону. Он создаст линию частиц, которая указывает, к какому ядру он подключен.
+
+Если поблизости находится более 1 ядра, это сделает цикл пилонов между ядрами в радиусе действия.
+
+Чтобы переключить пилон между режимом ввода и Вывода, просто щелкните правой кнопкой мыши по сфере.</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="1" shadow="true" size="1" type="heading">Энергетические Пилоны</content>
+            <content alignment="LEFT" hoverColour="0000FF" index="0" link="draconicevolution:energyCore/stabilizer" shadow="true" size="0" targetLocation="branch" type="link">§nНазад к Стабилизаторам</content>
+        </entry>
+    <entry branchId="draconicevolution:energyCore/stabilizer" category="wiki.cat.block" icon="name:draconicevolution:particle_generator,size:1,meta:2,nbt:{}" iconType="stack" name="Стабилизатор Энергетического Ядра" sortingWeight="1">
+            <content index="13" type="recipe">name:draconicevolution:particle_generator,size:1,meta:2,nbt:{}</content>
+            <content index="9" type="splitContainer" vAlignment="TOP">
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Energy%20Core%20T4.jpg" index="0" scale="100" splitSide="LEFT" type="image"/>
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Energy%20Core%20T5%202.jpg" index="0" scale="20" splitSide="RIGHT" type="image"/>
+            </content>
+            <content index="12" size="8" type="vSpacer"/>
+            <content alignment="CENTER" hoverColour="0000FF" index="11" link="draconicevolution:energyCore/pylon" shadow="true" size="0" targetLocation="branch" type="link">§nЭнергетические Пилоны. Нажмите здесь для продолжения.</content>
+            <content index="10" size="8" type="vSpacer"/>
+            <content alignment="LEFT" hoverColour="0000FF" index="1" link="draconicevolution:energyCore/setup" shadow="true" size="0" targetLocation="branch" type="link">§nНазад к руководству по установке ядра</content>
+            <content index="8" type="textArea">После того, как Вы установили хотя бы 1 стабилизатор, можете нажать по нему ПКМ, чтобы снова открыть графический интерфейс ядра. Тут Вы можете отключить руководство по сборке
+
+Теперь Вы можете увидеть статус ядра. Если правильно построили структуру, основной статус должен указывать «Действительный».
+Как только Вы закончите со стабилизаторами, то сможете активировать ядро.
+
+Обратите внимание, что стабилизаторы могут быть размещены либо на горизонтальной, либо на вертикальной плоскости.
+</content>
+            <content index="7" size="8" type="vSpacer"/>
+            <content index="6" type="splitContainer" vAlignment="TOP">
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Advanced%20Stabilizer%201.jpg" index="0" scale="30" splitSide="LEFT" type="image"/>
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Advanced%20Stabilizer%202.jpg" index="0" scale="28" splitSide="RIGHT" type="image"/>
+            </content>
+            <content index="5" size="8" type="vSpacer"/>
+            <content index="4" type="textArea">Стабилизаторы являются неотъемлемой частью ядра...
+Если Вы создаете ядро 1-4-го уровня, это так же просто, как разместить 4 стабилизатора вокруг ядра в пределах 16 блоков.
+Однако, если Вы создаете ядро более Высокого уровня, Вам понадобятся усовершенствованные стабилизаторы.
+
+Это просто 9 обычных стабилизаторов в конфигурации, показанной ниже.</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="2" shadow="true" size="1" type="heading">Стабилизаторы</content>
+        </entry>
+    </entry>
+    <entry branchId="draconicevolution:awakenedDraconium" category="wiki.cat.item" icon="name:draconicevolution:draconic_ingot,size:1,meta:0,nbt:{}" iconType="stack" name="Пробужденный Драконий" sortingWeight="11">
+        <content index="5" type="splitContainer" vAlignment="TOP">
+            <content index="0" splitSide="LEFT" type="recipe">name:draconicevolution:draconic_ingot,size:1,meta:0,nbt:{}</content>
+            <content index="0" splitSide="RIGHT" type="recipe">name:draconicevolution:draconic_block,size:1,meta:0,nbt:{}</content>
+        </content>
+        <content index="4" size="8" type="vSpacer"/>
+        <content index="3" type="textArea">Пробужденный Драконий - это то, что приходит после обычного дракония.
+Это базовый ингредиент для всех инструментов и предметов Дракона</content>
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nПробужденный Драконий</content>
+        <content index="0" size="8" type="vSpacer"/>
+    <entry branchId="draconicevolution:awakenedDraconium/heart" category="wiki.cat.item" icon="name:draconicevolution:dragon_heart,size:1,meta:0,nbt:{}" iconType="stack" name="Сердце Дракона">
+            <content index="4" size="8" type="vSpacer"/>
+            <content index="3" renderSlot="false" scale="300" tooltip="false" type="stack">name:draconicevolution:dragon_heart,size:1,meta:0,nbt:{}</content>
+            <content index="5" type="textArea">Можно создать или убить Дракона Края, Дракона Хаоса
+Этот мощный предмет используется для создания Пробужденного Дракония. </content>
+            <content index="6" splitSide="CENTER" type="recipe">name:draconicevolution:dragon_heart,size:1,meta:0,nbt:{}</content>
+            <content index="0" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nСердце Дракона</content>
+        </entry>
+    <entry branchId="draconicevolution:awakenedDraconium/nugget" category="wiki.cat.item" icon="name:draconicevolution:nugget,size:1,meta:1,nbt:{}" iconType="stack" name="Пробужденный Драконий Самородок">
+            <content index="0" type="recipe">name:draconicevolution:nugget,size:1,meta:1,nbt:{}</content>
+        </entry>
+    </entry>
+    <entry branchId="draconicevolution:upgradeSystem" category="wiki.cat.item" icon="name:draconicevolution:tool_upgrade,size:1,meta:0,nbt:{}" iconType="stack" name="Система Улучшений" sortingWeight="160">
+        <content index="21" size="8" type="vSpacer"/>
+        <content alignment="CENTER" hoverColour="0000FF" index="20" link="draconicevolution:fusionCrafting" shadow="true" size="0" targetLocation="branch" type="link">§nНажмите здесь, чтобы узнать о Слиянии!</content>
+        <content index="19" size="8" type="vSpacer"/>
+        <content index="18" type="textArea">Обратите внимание, что эти улучшения применимы только к вещам Draconic Evolution или другим модам, если они поддерживают API Draconic.</content>
+        <content index="17" size="8" type="vSpacer"/>
+        <content alignment="RIGHT" index="16" type="splitContainer" vAlignment="RIGHT" width="100">
+            <content alignment="RIGHT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает силу прыжка при применении к ботинкам.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:11,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="15" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает скорость передвижения при применении к ботинкам.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:10,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="14" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Уменьшает время восстановления щита.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:9,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="13" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает ёмкость щита.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:8,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="12" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает скорость стрельбы из лука.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:7,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="11" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает скорость натяжения лука.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:6,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="10" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает максимальный урон стрелы лука.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:5,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="9" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает атаку AOE (область атаки) оружия.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:4,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="8" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает урон от оружия.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:3,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="7" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает AOE (область копания) инструментов.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:2,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="6" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает скорость копания инструмента, к которому он применяется.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:1,nbt:{}</content>
+        </content>
+        <content alignment="CENTER" index="5" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Увеличивает ёмкость RF предметов, к которым он применяется.</content>
+            <content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:0,nbt:{}</content>
+        </content>
+        
+
+        <content index="4" size="8" type="vSpacer"/>
+        <content index="3" type="textArea">Используя систему Слияния, Вы можете модернизировать свои инструменты и оружие.
+Для этого Вам понадобится ядро улучшения 
+и необходимые ингредиенты для уровня улучшения, который Вы хотите применить.
+
+Большинство обновлений имеют 4 уровня: Базовый, Виверны, Дракона и Хаоса
+Перед тем, как Вы сможете применить более Высокий уровень, Вы должны применить предыдущий уровень.
+
+Для каждого уровня обновления требуются разные ингредиенты и соответствующий уровень слияния.
+Чтобы найти ингредиенты, необходимые для ядра улучшения, просто наведите указателем мыши на ядро в вашем инвентаре и удерживайте Shift.
+Вы увидите список всех необходимых ингредиентов. Он будет проходить через уровни каждые 5 секунд.
+Чтобы приостановить отображение, просто удерживайте CTRL. Попробуйте это на некоторых из приведенных ниже ядер. </content>
+
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nУлучшения Слияния</content>
+        <content index="0" size="8" type="vSpacer"/>
+    </entry>
+<entry branchId="draconicevolution:wyvernArmor" category="wiki.cat.item" icon="draconicevolution:wyvern_chest,1,0,{Energy:4000000}" iconType="stack" name="Броня Виверны" sortingWeight="60">
+        <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Armor/Wyvern%20Armor.jpg" index="7" scale="30" type="image"/>
+        <content index="6" size="8" type="vSpacer"/>
+        <content alignment="CENTER" hoverColour="0000FF" index="5" link="draconicevolution:deEnergyShield" shadow="true" size="0" targetLocation="branch" type="link">§nЭнергетический Щит Дракона</content>
+        <content index="4" size="8" type="vSpacer"/>
+        <content index="3" type="textArea">Броня Виверны - это Ваш первый шаг в пути к окончательному набору брони!
+
+На первый взгляд, броня в Draconic Evolution может показаться довольно неудовлетворительной.
+Но фактический броневой эффект этой брони НЕ является ее основной способностью обороны.
+Все доспехи в DE поставляются с мощным щитом, способным поглощать огромное количество урона.
+Вы можете прочитать о них на странице, приведенной ниже.
+Некоторые части брони также предоставляют некоторые баффы, которые, конечно же, могут быть сконфигурированы с помощью графического интерфейса DE.
+
+Ношение полной брони Виверны дает 100% огнестойкость.  </content>
+        <content index="2" size="8" type="vSpacer"/>
+        <content index="0" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nБроня Виверны</content>
+    <entry branchId="draconicevolution:wyvernArmor/wyvernHelmet" category="wiki.cat.item" icon="draconicevolution:wyvern_helm,1,0,{Energy:3945909,ShieldEntropy:0.0f,ProtectionPoints:38.4f}" iconType="stack" name="Шлем Виверны">
+            <content index="3" type="textArea">§bОписание:
+
+§6+20 Мощность базового щита
++2 Твёрдость Брони
++3 Броня
+</content>
+            <content index="5" type="recipe">draconicevolution:wyvern_helm,1,0,{Energy:3945909,ShieldEntropy:0.0f,ProtectionPoints:38.4f}</content>
+            <content index="4" size="8" type="vSpacer"/>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nШлем Виверны</content>
+        </entry>
+    <entry branchId="draconicevolution:wyvernArmor/wyvernChestplate" category="wiki.cat.item" icon="draconicevolution:wyvern_chest,1,0,{Energy:3933971,ShieldEntropy:0.0f,ProtectionPoints:102.4f}" iconType="stack" name="Нагрудник Виверны">
+            <content index="4" type="recipe">draconicevolution:wyvern_chest,1,0,{Energy:3933971,ShieldEntropy:0.0f,ProtectionPoints:102.4f}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">§bОписание:
+
+§6+80 Мощность базового щита
++2 Твёрдость Брони
++8 Броня</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nНагрудник Виверны</content>
+        </entry>
+    <entry branchId="draconicevolution:wyvernArmor/wyvernLeggings" category="wiki.cat.item" icon="draconicevolution:wyvern_legs,1,0,{Energy:3932111,ShieldEntropy:0.0f,ProtectionPoints:76.8f,Profile_0:{sprintBoost:0b,armorSpeedModifier:0}}" iconType="stack" name="Поножи Виверны">
+            <content index="4" type="recipe">draconicevolution:wyvern_legs,1,0,{Energy:3932111,ShieldEntropy:0.0f,ProtectionPoints:76.8f,Profile_0:{sprintBoost:0b,armorSpeedModifier:0}}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">§bОписание:
+
+§6+80 Мощность базового щита
++2 Твёрдость Брони
++6 Броня
+Увеличение скорости движения</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nПоножи Виверны</content>
+        </entry>
+    <entry branchId="draconicevolution:wyvernArmor/wyvernBoots" category="wiki.cat.item" icon="draconicevolution:wyvern_boots,1,0,{Energy:3932111,ShieldEntropy:0.0f,ProtectionPoints:38.4f,Profile_0:{sprintBoost:0b,armorJumpModifier:0}}" iconType="stack" name="Ботинки Виверны">
+            <content index="4" type="recipe">draconicevolution:wyvern_boots,1,0,{Energy:3932111,ShieldEntropy:0.0f,ProtectionPoints:38.4f,Profile_0:{sprintBoost:0b,armorJumpModifier:0}}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">§bОписание:
+
+§6+20 Мощность базового щита
++2 Твёрдость Брони
++3 Броня
+Уменьшенный урон от падения
+Увеличение Высоты прыжка</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nБотинки Виверны</content>
+        </entry>
+    </entry>
+<entry branchId="draconicevolution:draconicArmor" category="wiki.cat.item" icon="draconicevolution:draconic_chest,1,0,{Energy:16000000}" iconType="stack" name="Броня Дракона" sortingWeight="61">
+        <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Armor/Draconic%20Armor.jpg" index="4" scale="40" type="image"/>
+        <content index="3" size="8" type="vSpacer"/>
+        <content index="2" type="textArea">Броня Дракона - лучшая броня!
+Эта броня обладает теми же способностями, что и броня Виверны, но улучшена, а также имеет несколько новых способностей!</content>
+        <content index="1" size="8" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nБроня Дракона</content>
+        <entry branchId="draconicevolution:draconicArmor/draconicHelmet" category="wiki.cat.item" icon="draconicevolution:draconic_helm,1,0,{Energy:15793200,ShieldEntropy:0.0f,ProtectionPoints:76.8f,Profile_0:{armorNVLock:0b,armorNV:0b}}" iconType="stack" name="Шлем Дракона">
+            <content alignment="LEFT" index="2" type="textArea">§bОписание:
+
+§6Ночное Зрение  §a(Настраивается)
+§6Излечение от негативных эффектов
+Защита от удушья и задыхания под водой
+Устраняет замедление добычи под водой (Подводник)
++60 Мощность базового щита
++3 Твёрдость Брони
++3 Броня
+
+</content>
+            <content index="4" type="recipe">draconicevolution:draconic_helm,1,0,{Energy:15793200,ShieldEntropy:0.0f,ProtectionPoints:76.8f,Profile_0:{armorNVLock:0b,armorNV:0b}}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="0" shadow="true" size="0" type="heading">Нажмите, чтобы изменить</content>
+        </entry>
+    <entry branchId="draconicevolution:draconicArmor/draconicChestplate" category="wiki.cat.item" icon="draconicevolution:draconic_chest,1,0,{Energy:15798257,ShieldEntropy:0.0f,ProtectionPoints:204.8f,Profile_0:{sprintBoost:0b,armorInertiaCancel:0b,armorFSpeedModifier:0,armorVFSpeedModifier:0}}" iconType="stack" name="Нагрудник Дракона">
+            <content index="4" type="recipe">draconicevolution:draconic_chest,1,0,{Energy:15798257,ShieldEntropy:0.0f,ProtectionPoints:204.8f,Profile_0:{sprintBoost:0b,armorInertiaCancel:0b,armorFSpeedModifier:0,armorVFSpeedModifier:0}}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§bОписание:
+
+§6Полёт §a(Настраивается)
+§6Устраняет замедление добычи в воздухе
+Огнестойкость
++200 Мощность базового щита
++3 Твёрдость Брони
++8 Броня</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="0" shadow="true" size="0" type="heading">Нажмите, чтобы изменить</content>
+        </entry>
+    <entry branchId="draconicevolution:draconicArmor/draconicLeggings" category="wiki.cat.item" icon="draconicevolution:draconic_legs,1,0,{Energy:15798257,ShieldEntropy:0.0f,ProtectionPoints:153.6f,Profile_0:{sprintBoost:0b,armorSpeedModifier:0}}" iconType="stack" name="Поножи Дракона">
+            <content index="4" type="recipe">draconicevolution:draconic_legs,1,0,{Energy:15798257,ShieldEntropy:0.0f,ProtectionPoints:153.6f,Profile_0:{sprintBoost:0b,armorSpeedModifier:0}}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§bОписание:
+
+§6Ускорение скорости §a(Настраивается)
+§6+180 Мощность базового щита
++3 Твёрдость Брони
++6 Броня</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="0" shadow="true" size="0" type="heading">Нажмите, чтобы изменить</content>
+        </entry>
+    <entry branchId="draconicevolution:draconicArmor/draconicBoots" category="wiki.cat.item" icon="draconicevolution:draconic_boots,1,0,{Energy:15811507,ShieldEntropy:0.0f,ProtectionPoints:76.8f,Profile_0:{sprintBoost:0b,armorJumpModifier:0,armorHillStep:1b}}" iconType="stack" name="Ботинки Дракона">
+            <content index="4" type="recipe">draconicevolution:draconic_boots,1,0,{Energy:15811507,ShieldEntropy:0.0f,ProtectionPoints:76.8f,Profile_0:{sprintBoost:0b,armorJumpModifier:0,armorHillStep:1b}}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">§bОписание:
+
+§6Защита от падения
+§6Увеличение Высоты прыжка §a(Настраивается)
+§6Автопрыжок §a(Настраивается)
+§6+60 Мощность базового щита
++3 Твёрдость Брони
++3 Броня</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="0" shadow="true" size="0" type="heading">Нажмите, чтобы изменить</content>
+        </entry>
+    </entry>
+<entry branchId="draconicevolution:deEnergyShield" iconType="off" name="Энергетический Щит Draconic" sortingWeight="62">
+        <content alignment="LEFT" index="4" type="splitContainer" vAlignment="TOP" width="120">
+            <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Armor/Armor%20Hud.png" index="0" scale="100" splitSide="RIGHT" type="image"/>
+            <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Armor/Draconic%20Shield.jpg" index="0" scale="30" splitSide="LEFT" type="image"/>
+        </content>
+        <content index="3" size="8" type="vSpacer"/>
+        <content index="1" size="8" type="vSpacer"/>
+        <content index="2" type="textArea"> У доспехов Виверны и Дракона есть щит, способный поглощать урон.
+ 
+Ношение любого предмета из доспехов Дракона или Виверны даст Вам этот щит, но чем больше у Вас будет частей, тем больше урона он сможет поглотить. Части брони Дракона дают больше поглощения, чем части брони Виверны.
+
+ Когда ваш щит активен, Вы увидите его статистику в HUD, который по умолчанию будет отображаться слева от вашей горячей панели (это можно настроить на экране конфигурации HUD, доступ к которому осуществляется через GUI)
+
+ HUD показывает три статистики. Очки щита (Большая красно-зеленая полоса), Энтропия (Малая зеленая полоска) и общий оставшийся RF, хранящийся в вашей доспехах (Малая синяя полоса). Числовые значения для этих характеристик также будут отображаться, если они включены в конфигурации HUD.
+
+ Очки или мощность щита - это количество очков повреждений (половина сердца), которые может поглотить броня. Они уменьшатся, если будет нанесён урон. Пока любая часть брони имеет щит, Ваши защитные очки будут восстанавливаться за счет RF. Базовая скорость регенерации эквивалентна всей емкости каждые 3 секунды.
+
+ Энтропия колеблется от 0 до 100%. Она будет увеличиваться каждый раз, когда Вы получите урон, и будет медленно уменьшаться, если Вы не получаете урон. Энтропия уменьшает скорость восстановления щита. Если энтропия достигает 100%, щит вообще не будет восстанавливаться.
+
+ Щит можно обновить с помощью Улучшений Модификации. Обновление Емкость Щита увеличивает очки щита, и улучшение Восстановление Щита увеличит скорость восстановления Энтропии. Обратите внимание, что скорость восстановления рассчитывается путем усреднения Очков Восстановления всех экипированных частей брони.
+
+ Экран также имеет последнюю слабость. Он способен блокировать любой фатальный удар стоимостью 10 миллионов RF. Если у Вас меньше, чем 10 ммллионов RF, накопленных в ваших доспехах, эта способность не будет работать вообще, и Вы умрете.
+ </content>
+        <content alignment="LEFT" hoverColour="0000FF" index="1" link="draconicadditions:draconic_shield" shadow="true" size="0" targetLocation="branch" type="link">§nПерейти к бижутерии DA</content>
+		<content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nЭнергитический Щит Дракона</content>
+    </entry>
+<entry branchId="draconicevolution:dislocation" icon="draconicevolution:dislocator" iconType="stack" name="Телепортация" sortingWeight="180">
+        <content index="2" type="textArea">Draconic Evolution имеет ряд предметов, предназначенных для помощи в Ваших потребностях в телепортации!
+
+</content>
+        <content index="1" size="8" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nТелепортация</content>
+        <entry branchId="draconicevolution:dislocation/dislocator" category="wiki.cat.item" icon="draconicevolution:dislocator" iconType="stack" name="Телепортация">
+            <content index="4" type="recipe">draconicevolution:dislocator</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">Вы сумели наполнить силы Края своими знаниями о Draconic Evolution, чтобы создать базовый телепорт, но какой ценой...
+
+Энергии, связывающие их, нестабильны и сохраняются только для 10 применений и будут потреблять часть вашей жизненной энергии при каждом использовании
+
+Он может быть связан только с одним местом, но работает в разных измерениях. После 10 раз использования, Вы должны создать новый.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nТелепорт</content>
+        </entry>
+    <entry branchId="draconicevolution:dislocation/advancedDislocator" category="wiki.cat.item" icon="draconicevolution:dislocator_advanced,1,0,{}" iconType="stack" name="Улучшенный Телепорт">
+            <content index="4" type="recipe">draconicevolution:dislocator_advanced,1,0,{}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">Узнав, как дракониевые силы взаимодействуют с силами эндермена, Вы создали совершенный телепорт.
+
+Теперь Вы можете хранить до 100 точек телепортации и использовать жемчуг эндермена в качестве топлива.
+
+Это устройство может телепортировать Вас на экстремальные расстояния - даже по измерениям - по желанию.
+
+Shift + ПКМ, чтобы открыть GUI. Большая часть функциональности должна быть понятной.
+
+Слева - список точек телепортации. Каждый пункт назначения имеет кнопку блокировки, которая препятствует случайной перезаписи или удалению.
+
+ПКМ по пункту назначения в списке будет телепортироваться к нему без фактического выбора точки.
+
+Справа, начиная сверху, у Вас есть информация о выбранном пункте назначения, возможность переименования выбранного адресата, возможность изменить выбранный пункт назначения на текущие координаты и возможность удалить пункт назначения.
+
+Под этим есть топливо, возможность телепортироваться к выбранному месту назначения, возможность добавить ваше текущее местоположение в качестве нового места назначения и возможность добавить из своего инвентаря Жемчуг Эндера, который будет использоваться в качестве топлива (Shift + ЛКМ, чтобы добавить стак).
+
+Вы также можете Shift + Scroll (Колёсико мышки) с помощью предмета в руке, чтобы циклически перемещаться по пунктам назначения, не открывая графический интерфейс или не щелкая ПКМ, чтобы телепортироваться в текущее место назначения.
+Вы также можете телепортировать игроков и мобов, щелкнув по ним ЛКМ - однако Игроки должны удерживать Shift, а мобов нельзя телепортировать по измерениям.
+
+Возможно перемещение мест между дислокаторами. Просто разместите продвинутый дислокатор и базовый или другой продвинутый дислокатор в первом и втором слотах крафта, чтобы перенести местоположение из дислокатора в слот 1 на дислокатор в слоте 2.
+
+При переходе с базового на продвинутый дислокатор месту будет присвоено имя «* Копировать *». При переходе с расширенного на базовое текущее выбранное место в расширенном дислокаторе будет установлено как место привязки в базовом дислокаторе.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nУлучшенный Телепорт</content>
+        </entry>
+    <entry branchId="draconicevolution:dislocation/dislocatorPedestal" category="wiki.cat.block" icon="draconicevolution:dislocator_pedestal" iconType="stack" name="Пьедестал Телепорта">
+            <content index="4" type="recipe">draconicevolution:dislocator_pedestal</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">Вы выяснили, как создать простой пьедестал, на котором Вы можете разместить Базовый или Продвинутый Амулет Телепортации.
+
+Просто щелкните ПКМ с помощью Амулета в руке, чтобы поместить его на пьедестал, затем щелкните ПКМ на пьедестал, чтобы телепортироваться.
+
+Преимущество этого заключается в том, что Талисманы не будут наносить урон или использовать топливо. Недостатком является то, что Вы не можете переносить его с собой.
+
+Чтобы удалить Талисман с пьедестала, просто Shift + ПКМ пустой рукой.
+
+Когда он удерживает Базовый Талисман, который был переименован в наковальни или Продвинутый Талисман Телепортации с назначением, либо имя, либо пункт назначения будут отображаться над пьедесталом соответственно.
+
+Если Вы удерживаете Shift, все имена будут скрыты, кроме тех, на которые Вы смотрите. (Клавишу Shift можно изменить в настройках)</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nПьедестал Телепортации</content>
+        </entry>
+    <entry branchId="draconicevolution:dislocation/receptacle" category="wiki.cat.block" icon="draconicevolution:dislocator_receptacle" iconType="stack" name="Ядро Телепортации (Портал)">
+            <content index="5" size="8" type="vSpacer"/>
+            <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/portal.jpg" index="6" scale="100" type="image"/>
+            <content index="4" type="recipe">draconicevolution:dislocator_receptacle</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">Подобно Обсидиану, Заряженный Обсидиан можно использовать для создания волшебного портала, но с некоторыми большими различиями. Этот портал может быть любой формы и любого размера между блоками 1x1 и 150x150 и с использованием дислокатора для установки места назначения, в которыое портал может отправить Вас.
+ 
+При построении портала единственным ограничением является двумерная структура, но форма может быть любой, какая Вам нравится! Пока внутренняя область представляет собой законченную петлю. Затем замените любой блок в конструкции Ядром Телпортации, чтобы 1 сторона Ядра касалась области портала. (Оно также может быть в углу)
+
+Чтобы активировать портал, просто ПКМ на Ядро с Базовым или Продвинутым Амулетом Телпортации, привязанным к местоположению.
+
+Вы также можете устанавливать дислокаторы в ядро и вынимать из него с помощью воронок или других методов автоматизации.
+
+Можно спрятать Ядро Телепортации, щелкнув правой кнопкой мыши с помощью Заряженного Обсидиана.
+
+Портал также будет реагировать на сигнал редстоуна. По умолчанию портал активируется при вставке дислокатора. Но при питании от редстоуна портал станет зависимым от Редстоуна.
+
+При питании от красного камня дислокатор заблокирован в ядре.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nЯдро Телепортации</content>
+        </entry>
+    <entry branchId="draconicevolution:dislocation/itemDislocator" category="wiki.cat.item" icon="draconicevolution:magnet" iconType="stack" name="Магнит">
+            <content index="4" type="recipe">draconicevolution:magnet</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">Используя силу телепортации дислокатора, Вы нашли способ телепортировать предметы, упавшие в мире, прямо в ваш инвентарь!
+Диапазон этого магнита составляет 8 блоков.
+
+Чтобы активировать, просто Shift + ПКМ.
+
+§6Качество Жизни§r
+Удержание Shift временно отключит дислокатор.
+Если другой игрок находится в пределах 3 блоков от предмета, и они ближе к нему, чем Вы, дислокатор не будет его собирать.
+Когда Вы бросаете предмет, дислокатор будет ждать, пока его задержка срабатывания истечет, прежде чем собирать его снова. (Это значит, что Вы можете на самом деле бросить предметы другим игрокам!)
+</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nМагнит</content>
+        </entry>
+    <entry branchId="draconicevolution:dislocation/itemDislocatorAdvanced" category="wiki.cat.item" icon="draconicevolution:magnet,1,1" iconType="stack" name="Продвинутый Магнит">
+            <content index="4" type="recipe">draconicevolution:magnet,1,1</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content index="2" type="textArea">Это точно так же, как обычный Магнит, за исключением того, что он имеет диапазон 32 блока!</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nПродвинутый Магнит</content>
+        </entry>
+    </entry>
+<entry branchId="draconicevolution:generator" category="wiki.cat.block" icon="draconicevolution:generator" iconType="stack" name="Генератор" sortingWeight="190">
+        <content index="4" type="recipe">draconicevolution:generator</content>
+        <content index="3" size="8" type="vSpacer"/>
+        <content index="2" type="textArea">Это просто простой генератор, который сжигает большинство источников топлива и производит 84RF/t</content>
+        <content index="1" size="8" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nГенератор</content>
+    
+    </entry>
+<entry branchId="draconicevolution:energyInfuser" category="wiki.cat.block" icon="draconicevolution:energy_infuser" iconType="stack" name="Энергетический наполнитель" sortingWeight="200">
+        <content index="4" type="recipe">draconicevolution:energy_infuser</content>
+        <content index="3" size="8" type="vSpacer"/>
+        <content index="2" type="textArea">Увидев потребность в более быстрой передаче энергии, Вы создали Энергетический наполнитель.
+
+Это зарядное устройство способно заряжать предметы со скоростью до 1 миллиона RF/t.
+Но следует отметить, что фактическая скорость заряда ограничена максимальной скоростью приема заряжаемого предмета.
+Это зарядное устройство идеально подходит для зарядки предметов Draconic Evolution, поскольку они способны принимать энергию с чрезвычайно высокой скоростью.</content>
+        <content index="1" size="8" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nЭнергетический наполнитель</content>
+    
+    </entry>
+<entry branchId="draconicevolution:potentiometer" category="wiki.cat.block" icon="draconicevolution:potentiometer" iconType="stack" name="Потенциометр" sortingWeight="240">
+        <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/potentiometer.jpg" index="6" scale="100" type="image"/>
+        <content index="5" size="8" type="vSpacer"/>
+        <content index="4" type="recipe">draconicevolution:potentiometer</content>
+        <content index="3" size="8" type="vSpacer"/>
+        <content index="2" type="textArea">Простой излучатель из редстоуна, который способен излучать переменный сигнал редстоуна от 0 до 15.</content>
+        <content index="1" size="8" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nПотенциометр</content>
+    </entry>
+<entry branchId="draconicevolution:rainSensor" category="wiki.cat.block" icon="draconicevolution:rain_sensor" iconType="stack" name="Детектор Дождя" sortingWeight="250">
+        <content index="3" size="8" type="vSpacer"/>
+        <content index="4" type="recipe">draconicevolution:rain_sensor</content>
+        <content index="2" type="textArea">Устройство, излучающее сигнал редстоуна, когда идет дождь.
+(Нужно, чтобы над ним не было блоков)</content>
+        <content index="1" size="8" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nДетектор Дождя</content>
+    </entry>
+<entry branchId="draconicevolution:energyNet" category="wiki.cat.block" icon="draconicevolution:energy_crystal,1,2" iconType="stack" name="Энергетическая Сеть" sortingWeight="155">
+        <entry branchId="draconicevolution:energyNet/crystalBinder" category="wiki.cat.item" icon="draconicevolution:crystal_binder,1,0,{draconicevolution:binder:[645,64,315,]}" iconType="stack" name="Основы">
+            <content index="5" type="recipe">draconicevolution:crystal_binder,1,0,{draconicevolution:binder:[645,64,315,]}</content>
+            <content index="4" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="3" type="textArea">Энергетическая сеть Draconic Evolution отличается от любой другой. И визуально, и функционально она уникальна.
+
+Прежде чем начать работу с этой системой, Вам понадобится Кристалльный Связыватель.
+Обратите внимание, что в будущем Вы, вероятно, сможете использовать и инструменты других модов...
+
+Энергетическая сеть DE состоит из «энергетических кристаллов». Каждый энергетический кристалл имеет внутренний буфер энергии, и кристаллы могут быть связаны друг с другом с использованием Связывателя кристаллов.
+Когда связаны два или более кристалла, они будут пытаться сбалансировать свою накопленную энергию, чтобы они находились на одинаковом уровне заряда.
+Каждый кристалл может поддерживать только определенное количество соединений с другими кристаллами. Точное количество соединений определяется типом и уровнем кристалла.
+
+§6Соединение§r
+Чтобы связать кристалл с другим кристаллом или каким-либо другим допустимым устройством, просто щелкните ПКМ на одном из кристаллов со связывателем, который сохранит этот кристалл в себе.
+Затем просто щелкните ПКМ по целевому блоку, чтобы создать связь. Связыватель запоминает блок, на который он привязан, пока Вы не привяжете его к другому блоку или не нажмёте Shift + ПКМ по воздуху.
+
+§6GUI§r
+Когда Вы посмотрите на кристалл, DE HUD предоставит Вам информацию о его связях и потоке энергии.
+Щелчок ПКМ на кристалле отобразит его графический интерфейс, в котором Вы увидите список всех связанных устройств, а также поток энергии для каждого из них.
+Щелчок по элементу в списке даст Вам возможность идентифицировать свзяь, используя красный луч между кристаллом и целевым устройством, а также возможность разрыва связи.
+В верхней части списка есть кнопка, которая позволяет Вам очистить все свзяи.
+
+§6Типы Кристаллов§r
+Существует 3 типа кристаллов: Энергетический Кристалл Вход/выход, Энергетическое Реле и Беспроводные Энергетические Кристаллы.
+
+§6Энергетический Кристалл Вход/выход:§r
+Это кристалл, который Вы будете использовать для подачи и извлечения энергии из вашей кристаллической сети.
+Чтобы использовать этот кристалл, просто поместите его на сторону Вашего источника энергии/потребителя и подключите его к кристаллической сети.
+Этот кристалл имеет 3 режима входа/выхода, которые Вы можете переключаться между щелчком ПКМ с пустой рукой. Вход, выход и Баланс.
+Вход заставит кристалл принимать энергию от блока, к которому он присоединен, а выход будет пытаться отправить эту энергию в прикрепленный к нему блок.
+Режим баланса еще не полностью реализован, но предназначен для использования с энергетическими каналами других модов. Эта функциональность также должна поддерживаться другими модами и, следовательно, может не работать со всеми каналами.  
+Этот тип кристалла поддерживает очень ограниченное количество соединений с другими кристаллами.
+
+§6Энергитическое Реле:§r
+Этот кристалл предназначен для работы в качестве концентратора, к которому Вы можете подключить другие кристаллы. Поэтому он поддерживает гораздо больше соединений, чем Кристалл входа/выхода.
+Этот кристалл может связываться только с другими кристаллами и не может быть подключен к другим блокам.
+
+§6Беспроводной Кристалл:§r
+Этот кристалл подобен Энергетическому Реле, за исключением того, что он поддерживает меньшее количество кристаллических свзяей, но может без проводов подключаться к числовым приемникам энергии.
+Это соединение может подавать питание только на устройства, а не принимать его, а максимальный поток энергии ниже, чем у Кристалла входа/выхода.
+Преимущество этого кристалла заключается в том, что он поддерживает большое количество соединений, что означает, что Вы можете разместить его посередине своей базы и иметь большую мощность, если не всю, Ваших машин.
+
+Примечание. См. Страницу для каждого типа кристалла для получения полного списка характеристик.
+
+§6Энергетическая Визуализация:§r
+Когда энергия течет между двумя кристаллами, ее можно визуализировать пучком энергии, интенсивность которого примерно указывает скорость, с которой течет энергия.
+Когда энергия течет от Беспроводного Энергетического Кристалла к блоку, поток энергии обозначается потоком частиц, плотность и скорость которого примерно указывают скорость, с которой течет энергия.</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="0" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="1" shadow="true" size="1" type="heading">§nОсновы</content>
+        </entry>
+    <entry branchId="draconicevolution:energyNet/energyIO" category="wiki.cat.block" icon="draconicevolution:energy_crystal,1,3" iconType="stack" name="Энергетический Кристал Вход/выход">
+            <content index="7" type="recipe">draconicevolution:energy_crystal,1,5,{}</content>
+            <content index="6" type="recipe">draconicevolution:energy_crystal,1,4,{}</content>
+            <content index="5" type="recipe">draconicevolution:energy_crystal,1,3,{}</content>
+            <content index="4" size="8" type="vSpacer"/>
+            <content index="3" type="textArea">Описание:
+
+§9Базовый§r
+Вместимость: 4 Миллиона RF
+Максимально Свзяей: 2 
+
+§5Виверны§r
+Вместимость: 16 Миллионов RF
+Максимально Свзяей: 3
+
+§6Дракона§r
+Вместимость: 64 Миллиона RF
+Максимально Свзяей: 4</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="1" shadow="true" size="1" type="heading">§nЭнергетический Кристал Вход/выход</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:energyNet/relay" category="wiki.cat.block" icon="draconicevolution:energy_crystal,1,1" iconType="stack" name="Энергетическое Реле">
+            <content index="7" type="recipe">draconicevolution:energy_crystal,1,2</content>
+            <content index="6" type="recipe">draconicevolution:energy_crystal,1,1</content>
+            <content index="5" type="recipe">draconicevolution:energy_crystal</content>
+            <content index="4" size="8" type="vSpacer"/>
+            <content index="3" type="textArea">Описание:
+
+§9Базовый§r
+Вместимость: 4 Миллиона RF
+Максимально Свзяей: 8 
+
+§5Виверны§r
+Вместимость: 16 Миллионов RF
+Максимально Свзяей: 16 
+
+§6Дракона§r
+Вместимость: 64 Миллиона RF
+Максимально Свзяей: 32</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="1" shadow="true" size="1" type="heading">§nЭнергетическое Реле</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:energyNet/wierless" category="wiki.cat.block" icon="draconicevolution:energy_crystal,1,8" iconType="stack" name="Беспроводной Энергетический Кристалл">
+            <content index="7" type="recipe">draconicevolution:energy_crystal,1,8</content>
+            <content index="6" type="recipe">draconicevolution:energy_crystal,1,7</content>
+            <content index="5" type="recipe">draconicevolution:energy_crystal,1,6</content>
+            <content index="4" size="8" type="vSpacer"/>
+            <content index="3" type="textArea">Описание:
+
+§9Базовый§r
+Вместимость: 4 Миллиона RF
+Максимально Свзяей: 4
+Максимально Беспроводных Свзяей: 16
+
+§5Виверны§r
+Вместимость: 16 Миллионов RF
+Максимально Свзяей: 8
+Максимально Беспроводных Свзяей: 32
+
+§6Дракона§r
+Вместимость: 64 Миллионов RF
+Максимально Свзяей: 16
+Максимально Беспроводных Свзяей: 64</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="1" shadow="true" size="1" type="heading">§nБеспроводной Энергетический Кристалл</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    </entry>
+<entry branchId="draconicevolution:mobSoul" category="wiki.cat.item" icon="draconicevolution:mob_soul,1,0,{EntityName:&quot;[Random-Display]&quot;}" iconType="stack" name="Душа Моба" sortingWeight="212">
+        <content index="2" size="8" type="vSpacer"/>
+        <content index="3" type="textArea">Души мобов иногда падают с мобов, когда их убивает игрок, используя оружие с зачарование Жнец.
+
+Вероятность выпадения очень низкая.
+1 из 1000 для враждебных мобов и 1 из 800 для пассивных мобов (настраиваемых) для незачарованного оружия Виверны.
+Но шансы получить душу могут быть улучшены с помощью Жнеца.
+
+Инструменты DE, по существу, имеют встроенный модификатор Жнеца, эквивалентный Жнеца Уровень 1 для Виверны, Уровень 2 для Дракона и Уровень 3 для Посоха Силы.
+Расчет, чтобы выяснить Ваш шанс на выпадение, - это шанс на базовый дроп, разделенный оружием, с встроенным модификатором Жнец, + уровень зачарования.
+
+Итак, расчет для скажем.. Меча Дракона с Жнецом 5 будет следующим:
+Встроенный модификатор = 2,
+Уровень Жнеца = 5,
+Шанс Выпадения = 1000 / (2 + 5)
+
+Результат: Вероятность падения 1 на 142
+
+Если встроенный модификатор Жнеца равен 0 (Оружие не из DE), то нет шанса получить душу.
+
+Некоторые моды могут применять модификатор Жнеца на своем оружии, но со времени написания этого я не знаю никого, кто это делал.
+
+
+§bДля спавна сущности нажмите Shift + ПКМ на блоке с душой.
+</content>
+        <content index="1" renderSlot="false" scale="500" tooltip="true" type="stack">draconicevolution:mob_soul,1,0,{EntityName:"[Random-Display]"}</content>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nДуша Моба</content>
+    </entry>
+<entry branchId="draconicevolution:draconiumChest" category="wiki.cat.block" icon="draconicevolution:draconium_chest" iconType="stack" name="Сундук Дракона" sortingWeight="110">
+        <content index="11" size="8" type="vSpacer"/>
+        <content index="9" size="8" type="vSpacer"/>
+        <content imgURL="http://ss.brandon3055.com/5wxlceb.png" index="10" scale="100" type="image"/>
+        <content imgURL="http://ss.brandon3055.com/jrffmsj.png" index="8" scale="100" type="image"/>
+        <content index="7" size="8" type="vSpacer"/>
+        <content index="6" type="recipe">draconicevolution:draconium_chest</content>
+        <content index="5" size="8" type="vSpacer"/>
+        <content index="4" type="textArea">Сундук Дракона, вероятно, является одним из самых универсальных устройств хранения!
+Он имеет не только 260 слотов, но также и мощную многослотовую печь
+и верстак для вашего удобства!
+Кроме всего прочего, у него есть некоторые очень мощные параметры конфигурации входа/выхода, но мы немного поразмышляем об этом.
+
+§6Печь§r
+
+Встроенная печь - необычная печь. Во-первых, он может переплавить 5 предметов за раз с очень быстрой скоростью.
+Но если этого недостаточно для Вас, его можно обновить! Просто разместив ядро Виверны, Дракона или Хаоса
+в слоте обновления печи Вы можете сделать это еще быстрее!
+И если этого еще не хватило, пока в слоте обновления есть ядро Виверны или лучше, то печь будет удваивать руды!
+
+Но следует отметить, что при увеличении скорости также увеличивает потребление энергии
+намного больше, чем уменьшает время процесса.
+
+Следует также отметить, что при обновлении ядро фактически не потребляется и может быть удалено в любое время.
+
+Печь требует питания, которое может подаваться снаружи или через Флаксовый Конденсатор Потока в его слоте конденсатора.
+
+В печи есть опция автоматической подачи, которая делает именно то, что Вы думаете.
+Он автоматически подает в печь предметы для плавки из инвентаря сундука.
+Существует 4 режима подачи:
+
+§bВыкл§r
+Думаю это понятно...
+
+§bЗАПОЛНЕНИЕ§r
+Будет подовать предметы только тогда, когда уже идет процесс плавки
+и будет только держать существующие предметы в настоящее время до полной переплавки.
+Не начнет переплавялть предметы, которые Вы вручную
+не положили в печь.
+
+§bЗАМОК§r
+В значительной степени то же, что и ЗАПОЛНЕНИЕ, за исключением того, что он не будет переплавлять последние предметы.
+это означает, что, как только этот предмет появится в инвентаре
+он автоматически начнет подавать снова.
+
+§bВСЕ§r
+Переплавяет каждый возможный предмет в инвентаре сундука
+
+Следующие...
+§6Верстак§r
+На самом деле, здесь нечего сказать.
+Это Выглядит как верстак,
+Это пахнет верстаком,
+Это на вкус как верстак...
+Это верстак!
+С полной поддержкой JEI!
+
+Следующие.
+§6Конфигурации Входа/выхода§r
+Здесь все становится очень интересным...
+По умолчанию инвентарь работает как любой другой инвентарь. Вы можете класть или извлекать предметы из любого слота с любой стороны блока.
+И печь также может класть или извлекать из любого слота.
+Но это можно изменить!
+
+У Вас есть возможность разбить инвентарь до 6 отдельных областей Входа/выхода.
+Каждая область может быть отдельно сконфигурирована с полным контролем над теми частями сундука, в которых могут быть доступны слоты
+с возможностью отмечать стороны как Вход или выход или только полностью отключенные.
+Вы также можете настроить, в каких областях внутренняя печь может извелкать или отдавать предметы.
+Существует также «область по умолчанию», которая управляет всеми слотами сразу, которые не назначены ни к какому режиму, и она может быть настроена как все остальные режимы.
+
+Чтобы назначить слоты режима, Вы просто выбираете область в редакторе и щелкаете и перетаскиваете в инвентарь, чтобы нарисовать прямоугольник вокруг слотов, которые Вы хотите.
+Также, когда Вы открываете редактор режима, Вы можете просто щелкнуть по существующим режимам, чтобы переключаться между ними
+
+Использование этого бесполезно, но один простой пример...
+Вы создаете 2 области. 
+Область 1 принимает предметы только с левой стороны сундука, и печь может извелкать только из области 1.
+Область 2 позволяет только извлекать предметы с правой стороны сундука, и печь может выдавать предметы только в область 2.
+
+Теперь, когда Вы перекачиваете предметы в левую сторону сундука, они отправляются в область 1, плавятся, а затем выводятся в область 2, готовую к извлечению с правой стороны сундука.
+
+§6Также! если ВСЕГО этого было недостаточно§r
+Сундук сохраняет свой инвентарь, когда ломается,
+И Вы можете сделать любой цвет сундука, который Вам нужен (RGB)!!!</content>
+        <content index="3" size="8" type="vSpacer"/>
+        <content alignment="CENTER" colour="ffff" index="2" shadow="true" size="0" type="heading">Гораздо больше, чем большой инвентарь!</content>
+        <content index="1" size="4" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nСундук Дракона</content>
+    </entry>
+</mod>

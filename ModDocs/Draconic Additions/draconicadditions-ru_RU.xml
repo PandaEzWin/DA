@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod docRevision="14" lang="ru_RU" modName="Draconic Additions" modid="draconicadditions">
+    <content alignment="CENTER" colour="ff00" hoverColour="0000FF" index="33" link="https://www.patreon.com/FoxMcloud5655" shadow="true" size="0" targetLocation="web" type="link">https://www.patreon.com/FoxMcloud5655</content>
+    <content index="32" type="textArea">Если вы хотите стать Patreon, Вы можете сделать это, перейдя по ссылке ниже.</content>
+    <content index="31" size="8" type="vSpacer"/>
+    <content alignment="LEFT" index="24" type="splitContainer" vAlignment="TOP" width="20">
+        <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">§6FoxMcloud5655§b
+Является единственным разработчиком DA
+Он отличный парень!</content>
+    </content>
+    <content index="21" size="8" type="vSpacer"/>
+    <content alignment="CENTER" colour="ffff" index="26" shadow="true" size="0" type="heading">§nPatreons:</content>
+    <content index="25" size="8" type="vSpacer"/>
+    <content alignment="CENTER" colour="ffff" index="18" shadow="true" size="1" type="heading">§nАвтор</content>
+    
+    <content index="7" size="4" type="vSpacer"/>
+    <content alignment="CENTER" colour="ff00" hoverColour="0000FF" index="6" link="https://www.youtube.com/watch?v=UNnQJWaq5aA" shadow="true" size="0" targetLocation="web" type="link">§nНажмите здесь, чтобы просмотреть гайд на youtube.</content>
+    <content alignment="CENTER" colour="ffff" index="5" shadow="true" size="0" type="heading">Guide by KARTAFAN!</content>
+	<content alignment="CENTER" colour="ffff" index="4" shadow="true" size="0" type="heading">§rРуководство по аддону сделал §c§ligorek181</content>
+    <content index="9" size="8" type="vSpacer"/>
+    
+    <content index="12" size="24" type="vSpacer"/>
+    <content alignment="LEFT" index="11" type="splitContainer" vAlignment="BOTTOM" width="10">
+        <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">§1§a
+-Очень мощные инструменты и доспехи
+
+-Бижутерия
+
+-Очень крутой ритуал активации брони и оружия
+
+-Необычные эффекты</content>
+    </content>
+    <content index="10" type="textArea">Draconic Additions - это хорошее дополнение для DE</content>
+    <content index="4" size="8" type="vSpacer"/>
+    <content alignment="CENTER" index="3" shadow="true" size="0" type="heading">Расширь свои возможности!!!</content>
+    <content alignment="CENTER" index="2" shadow="false" size="0" type="heading">§cDraconic Additions§r</content>
+    <content index="1" size="8" type="vSpacer"/>
+    <content alignment="CENTER" index="0" shadow="true" size="1" type="heading">§nDraconic Additions</content>
+	
+	<entry branchId="draconicadditions:draconic_shield" icon="draconicadditions:draconic_shield_necklace,1,0,{Energy:200000}" iconType="stack" name="Бижутерия" sortingWeight="180">
+        <content index="2" type="textArea">Draconic Additions имеет ряд предметов, предназначенных для дополнительной защиты Вашего персонажа и не только.
+
+</content>
+        <content index="1" size="8" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nБижутерия</content>
+        <entry branchId="draconicadditions:draconic_shield/basic" category="wiki.cat.item" icon="draconicadditions:basic_shield_necklace,1,0,{Energy:50000}" iconType="stack" name="Базовое ожерелье защиты">
+            <content imgURL="https://raw.githubusercontent.com/PandaEzWin/Draconic-Evolution-Additions/main/images/shield.png" index="8" scale="20" splitSide="CENTER" type="image"/>
+			<content index="7" size="8" type="vSpacer"/>
+			<content index="6" type="recipe">draconicadditions:basic_shield_necklace</content>
+            <content index="5" size="8" type="vSpacer"/>
+			<content alignment="CENTER" hoverColour="0000FF" index="4" link="draconicevolution:deEnergyShield" shadow="true" size="0" targetLocation="branch" type="link">§nНажмите здесь, чтобы подробнее узнать о Драконик Щите</content>
+            <content index="3" size="8" type="vSpacer"/>
+			<content index="2" type="textArea">Изучая дополнение Draconic Additions первое, что Вас заинтересовало, это ожерелья защиты...
+
+За небольшое количество энергии он наложит на Вас щит, который сможет Вас спасти, если у Вас нет основной брони Дракона.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nБазовое Ожерелье</content>
+        </entry>
+    <entry branchId="draconicadditions:draconic_shield/wywern" category="wiki.cat.item" icon="draconicadditions:wyvern_shield_necklace,1,0,{Energy:100000}" iconType="stack" name="Ожерелье защиты Виверны">
+            <content imgURL="https://raw.githubusercontent.com/PandaEzWin/Draconic-Evolution-Additions/main/images/shield.png" index="8" scale="20" splitSide="CENTER" type="image"/>
+			<content index="7" size="8" type="vSpacer"/>
+			<content index="6" type="recipe">draconicadditions:wyvern_shield_necklace,1,0,{}</content>
+            <content index="5" size="8" type="vSpacer"/>
+			<content alignment="CENTER" hoverColour="0000FF" index="4" link="draconicevolution:deEnergyShield" shadow="true" size="0" targetLocation="branch" type="link">§nНажмите здесь, чтобы подробнее узнать о Драконик Щите</content>
+            <content index="3" size="8" type="vSpacer"/>
+			<content index="2" type="textArea">Это ожерелье гораздно лучше, чем базовое, но и это ещё не придел.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nОжерелье Виверны</content>
+        </entry>
+    <entry branchId="draconicadditions:draconic_shield/draconic" category="wiki.cat.block" icon="draconicadditions:draconic_shield_necklace,1,0,{Energy:200000}" iconType="stack" name="Ожерелье защиты Дракона">
+            <content imgURL="https://raw.githubusercontent.com/PandaEzWin/Draconic-Evolution-Additions/main/images/shield.png" index="8" scale="20" splitSide="CENTER" type="image"/>
+			<content index="7" size="8" type="vSpacer"/>
+			<content index="6" type="recipe">draconicadditions:draconic_shield_necklace</content>
+            <content index="5" size="8" type="vSpacer"/>
+			<content alignment="CENTER" hoverColour="0000FF" index="4" link="draconicevolution:deEnergyShield" shadow="true" size="0" targetLocation="branch" type="link">§nНажмите здесь, чтобы подробнее узнать о Драконик Щите</content>
+            <content index="3" size="8" type="vSpacer"/>
+			<content index="2" type="textArea">Самое мощное ожерелье из всей линейки, за большое количество энергии он будет спасать Вас из сложных ситуаций</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nОжерелье Дракона</content>
+        </entry>
+	<entry branchId="draconicadditions:draconic_shield/inertia" category="wiki.cat.block" icon="draconicadditions:inertia_cancel_ring,1,0,{}" iconType="stack" name="Кольцо погашения инерции">
+            <content index="4" type="recipe">draconicadditions:inertia_cancel_ring</content>
+            <content index="3" size="8" type="vSpacer"/>
+			<content index="2" type="textArea">С этим кольцом ты сможешь остановиться моментально без пролёта дополительных блоков...
+(Конечно же за небольшую плату в виде заряда RF)</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nКольцо погашения инерции</content>
+        </entry>
+    </entry>
+	<entry branchId="draconicadditions:chaotic_energy_core" icon="draconicadditions:chaotic_energy_core,1,0,{}" iconType="stack" name="Ядро Хаоса" sortingWeight="180">
+		<content index="4" type="recipe">draconicadditions:chaotic_energy_core</content>
+        <content index="3" size="8" type="vSpacer"/>
+		<content index="2" type="textArea">Данное ядро используется для крафта очень мощных вещей.</content>
+	</entry>
+	<entry branchId="draconicadditions:chaos_stabilizer_core" icon="draconicadditions:chaos_stabilizer_core,1,0,{}" iconType="stack" name="Ядро для стабилизации" sortingWeight="180">
+		<content alignment="CENTER" hoverColour="0000FF" index="5" link="draconicadditions:chaos_stabilizer_core" shadow="true" size="0" targetLocation="branch" type="link">§nНажмите здесь, чтобы подробнее узнать об алтаре стабилизации</content>
+		<content index="4" size="8" type="vSpacer"/>
+		<content index="3" type="recipe">draconicadditions:chaos_stabilizer_core</content>
+        <content index="2" size="8" type="vSpacer"/>
+		<content index="1" type="textArea">Данное ядро нужно для постройки алтаря стабилизации предметов.</content>
+		<content index="0" size="8" type="vSpacer"/>
+	</entry>
+	<entry branchId="draconicadditions:chaos_stabilizer_core" icon="draconicadditions:chaos_stabilizer_core,1,0,{}" iconType="stack" name="Алтарь стабилизации" sortingWeight="180">
+		<content alignment="CENTER" colour="ff00" hoverColour="0000FF" index="15" link="https://youtu.be/UNnQJWaq5aA?t=508" shadow="true" size="0" targetLocation="web" type="link">§nНажмите здесь, чтобы просмотреть гайд на youtube.</content>
+		<content index="14" size="8" type="vSpacer"/>
+		<content imgURL="https://raw.githubusercontent.com/PandaEzWin/Draconic-Evolution-Additions/main/images/stable_ritual_1.png" index="13" scale="20" splitSide="RIGHT" type="image"/>
+        <content index="12" size="8" type="vSpacer"/>
+		<content index="11" type="textArea">После успешной активации Вы можете кинуть в ядро не активированный предмет и наблюдать за магией.
+При стабилизации алтарь тратит 4 пробуждённых дракониевых блока на 1 предмет.</content>
+		<content index="10" size="8" type="vSpacer"/>
+		<content index="8" size="8" type="vSpacer"/>
+		<content index="7" type="textArea">§cВНИМАНИЕ! Данный ритуал притягивает к себе мобов, вещи, игроков и НАНОСИТ урон!!!§r
+Пожалуйста работайте с ним на достаточном расстоянии!</content>
+		<content index="6" size="8" type="vSpacer"/>
+		<content imgURL="https://raw.githubusercontent.com/PandaEzWin/Draconic-Evolution-Additions/main/images/stable_ritual.png" index="5" scale="20" splitSide="LEFT" type="image"/>
+		<content index="4" size="8" type="vSpacer"/>
+		<content alignment="LEFT" index="3" type="textArea">Для постройки алтаря Вам нужно:
+
+1х Ядро для стабилизации Хаоса
+37х Заряженный обсидиан
+4х Пробуждённый дракониевый блок</content>
+		<content index="2" size="16" type="vSpacer"/>
+		<content index="1" type="textArea">Для постройки нужно сделать платформу 5х5 из заряженного обсидиана, 
+по бокам нужно поставить 4 столба и на них нужно установить Пробуждённый дракониевый блок.
+В центре на уровне дракониевых блоков нужно установить ядро для стабилизации хаоса.</content>
+		<content index="0" size="8" type="vSpacer"/>
+	</entry>
+	<entry branchId="draconicadditions:chaoticTools" icon="draconicadditions:chaotic_staff_of_power,1,0,{Energy: 60000000, isStable: 1}" iconType="stack" name="Инструменты Хаоса" sortingWeight="180">
+        <content imgURL="https://raw.githubusercontent.com/PandaEzWin/Draconic-Evolution-Additions/main/images/chaotic_tools.png" index="4" scale="20" splitSide="CENTER" type="image"/>
+		<content index="3" size="8" type="vSpacer"/>
+		<content index="2" type="textArea">Это инструменты и оружие самого выского уровня Draconic Additions.
+
+Эти инструменты наследуют все возможности Дракона, но с некоторыми обновлениями.
+
+§6§nЕщё больше Область Добычи.§r
+Это означает, что Вы можете копать, например, куб 15x15x15.</content>
+        <content index="1" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="0" shadow="true" size="3" type="heading">§nИнструменты Хаоса</content>
+        <entry branchId="draconicadditions:chaoticTools/Staff" category="wiki.cat.item" icon="draconicadditions:chaotic_staff_of_power,1,0,{Energy: 60000000, isStable: 1}" iconType="stack" name="Хаотический посох силы">
+			<content index="6" type="recipe">draconicadditions:chaotic_staff_of_power</content>
+            <content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">Хаотический Посох Силы - один из самых мощных предметов в игре.
+Это и добывающий инструмент, и мощное оружие со схожими способностями Меча Дракона.
+Но сильнее Посоха силы!
+
+§b§nОписание:
+
+§6Базовая ёмкость 60 Миллионов RF. Можно улучшить до 1.9 Миллиарда RF.§r
+
+§67x7 базовая область копания. Можно улучшить до 15x15§r
+
+§6Глубина добычи в 7 блоков. Можно улучшить до 15§r
+
+§6120 базовая Атака. Можно улучишть до 240§r
+Следует отметить, это такое большое и тяжелое оружие, что скорость атаки довольно медленная.
+
+§65x5 базовый радиус атаки. Можно улучишть до 24x24§r
+Обратите внимание, что атака по области работает только тогда, когда атака меча полностью заряжена.
+(Обращаясь к новой механике атаки ванильного майнкрафта)</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nХаотический посох силы</content>
+        </entry>
+    <entry branchId="draconicadditions:chaoticTools/Bow" category="wiki.cat.item" icon="draconicadditions:chaotic_bow,1,0,{Energy: 60000000, isStable: 1}" iconType="stack" name="Хаотический Лук">
+			<content index="4" type="recipe">draconicadditions:chaotic_bow,1,0,{}</content>
+            <content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">Лук в Draconic Additions самый мощный, с множеством различных настраиваемых настроек.
+
+§6Базовая ёмкость 20 Миллионов RF. Можно улучшить до 640 Миллионов RF.§r
+
+§6Базовый Урон стрелы: 5, можно улучшить до 13§r
+
+§6Модификатор Скорости стрелы: базовый +400%, Можно улучшить до +800%§r
+
+§6Режим Авто Огня§r
+Будет автоматически срабатывать при полной зарядке лука.
+
+§6Стрела Драконьего Огня§r
+Вы не можете выключить эту функции. Обычные стрелы распадаются при использовании с этим луком!
+
+§6Сила Ударной Волны§r
+Это создает ударную волну, которая наносит урон, подобный взрыву, но более мощный и без разрушения блоков.
+
+§6Приближение§r
+Позволяет увеличить масштаб цели, чтобы повысить точность на большом расстоянии.
+
+§aИнформация:§r
+Повреждение рассчитывается путем умножения скорости стрелы на повреждение стрелы с некоторой случайностью.
+
+Энергия, требуемая для каждого Выстрела, рассчитывается путем умножения урона, скорости и мощности взрыва.
+Это означает, что для установки всего трёх настроек на максимум потребуется огромное количество энергии за Выстрел.
+
+Ударная волна совместима только со Стрелой Драконьего Огня.
+И Взрывная сила не совместима со Стрелой Драконьего Огня</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nХаотический Лук</content>
+        </entry>
+    </entry>
+    <entry branchId="draconicadditions:chaotic/armour" icon="draconicadditions:chaotic_chest,1,0,{Energy: 16000000, isStable: 1}" iconType="stack" name="Броня Хаоса" sortingWeight="180">
+        <content imgURL="https://raw.githubusercontent.com/PandaEzWin/Draconic-Evolution-Additions/main/images/chaotic_armour.png" index="4" scale="30" splitSide="CENTER" type="image"/>
+		<content index="3" size="8" type="vSpacer"/>
+		<content index="2" type="textArea">Броня Хаоса - самая лучшая броня!
+Эта броня обладает теми же способностями, что и броня Дракона, но улучшена!</content>
+        <content index="1" size="8" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nБроня Хаоса</content>
+        <entry branchId="draconicadditions:chaotic_armour/helm" category="wiki.cat.item" icon="draconicadditions:chaotic_helm,1,0,{Energy: 16000000, isStable: 1}" iconType="stack" name="Шлем Хаоса">
+			<content index="4" type="recipe">draconicadditions:chaotic_helm</content>
+            <content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">§bОписание:
+
+§6Ночное Зрение  §a(Настраивается)
+§6Излечение от негативных эффектов
+Защита от удушья и задыхания под водой
+Устраняет замедление добычи под водой (Подводник)
++120 Мощность базового щита
++6 Твёрдость Брони
++6 Броня
+
+</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nШлем Хаоса</content>
+        </entry>
+    <entry branchId="draconicadditions:chaotic_armour/chest" category="wiki.cat.item" icon="draconicadditions:chaotic_chest,1,0,{Energy: 16000000, isStable: 1}" iconType="stack" name="Нагрудник хаоса">
+			<content index="6" type="recipe">draconicadditions:chaotic_chest,1,0,{}</content>
+            <content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">§bОписание:
+
+§6Полёт §a(Настраивается)
+§6Устраняет замедление добычи в воздухе
+Огнестойкость
++400 Мощность базового щита
++6 Твёрдость Брони
++16 Броня
+
+</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nНагрудник хаоса</content>
+        </entry>
+    <entry branchId="draconicadditions:chaotic_armour/legs" category="wiki.cat.block" icon="draconicadditions:chaotic_legs,1,0,{Energy: 16000000, isStable: 1}" iconType="stack" name="Поножи Хаоса">
+			<content index="6" type="recipe">draconicadditions:chaotic_legs</content>
+            <content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">§bОписание:
+
+§6Ускорение скорости §a(Настраивается)
+§6+360 Мощность базового щита
++6 Твёрдость Брони
++12 Броня
+
+</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nПоножи Хаоса</content>
+        </entry>
+	<entry branchId="draconicadditions:chaotic_armour/boots" category="wiki.cat.block" icon="draconicadditions:chaotic_boots,1,0,{Energy: 16000000, isStable: 1}" iconType="stack" name="Ботинки хаоса">
+            <content index="4" type="recipe">draconicadditions:chaotic_boots</content>
+            <content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">§bОписание:
+
+§6Защита от падения
+§6Увеличение Высоты прыжка §a(Настраивается)
+§6Автопрыжок §a(Настраивается)
+§6+120 Мощность базового щита
++6 Твёрдость Брони
++6 Броня
+
+</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nБотинки хаоса</content>
+        </entry>
+    </entry>
+</mod>
