@@ -7,7 +7,7 @@ If you want to install games for your client, then follow these steps:
 
 • Open the archive and copy the `ModDocs` folder
 
-• Follow the path `C:\Users\Users\AppData\Roaming\.minecraft\config\brandon3055\ProjectIntelligence`
+• Follow the path `C:\Users\Users\AppData\Roaming\.minecraft\config\brandon3055\ProjectIntelligence\`
 
 • Replace existing files with files from the folder
 
